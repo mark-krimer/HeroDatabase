@@ -1,0 +1,266 @@
+/* ---------- GLOBAL ---------- */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Segoe UI", Arial, sans-serif;
+	background: #0f172a;
+	color: white;
+
+	min-height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	padding: 50px 20px;
+}
+
+/* ---------- TITLE ---------- */
+
+h1 {
+	font-size: 3rem;
+	margin-bottom: 35px;
+	text-align: center;
+}
+
+/* ---------- SEARCH ---------- */
+.searchBar {
+	display: flex;
+
+	justify-content: center;
+
+	margin-bottom: 10px;
+}
+
+/* ---------- SEARCH INPUT ---------- */
+
+#superheroInput {
+	width: min(600px, 75vw);
+
+	height: 55px;
+
+	padding: 0 18px;
+
+	border: none;
+
+	border-radius: 14px 0 0 14px;
+
+	background: #1e293b;
+
+	color: white;
+
+	font-size: 1rem;
+
+	outline: none;
+
+	transition:
+		background 0.25s ease,
+		transform 0.2s ease,
+		box-shadow 0.25s ease;
+}
+
+#superheroInput:focus {
+	background: #263549;
+
+	box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.35);
+
+	transform: translateY(-2px);
+}
+
+/* ---------- SEARCH BUTTON ---------- */
+
+#submit {
+	width: 60px;
+
+	height: 55px;
+
+	border: none;
+
+	border-radius: 0 14px 14px 0;
+
+	background: #3b82f6;
+
+	color: white;
+
+	cursor: pointer;
+
+	font-size: 1.3rem;
+
+	transition:
+		background 0.2s ease,
+		transform 0.15s ease,
+		box-shadow 0.2s ease;
+}
+
+#submit:hover {
+	background: #2563eb;
+
+	transform: translateY(-2px);
+
+	box-shadow: 0 5px 15px rgba(59, 130, 246, 0.35);
+}
+
+#submit:active {
+	transform: scale(0.95);
+}
+
+/* ---------- SEARCH SUGGESTIONS ---------- */
+
+#suggestions {
+	width: min(660px, 75vw);
+
+	margin: 8px auto 40px;
+
+	background: #1e293b;
+
+	border-radius: 14px;
+
+	overflow: hidden;
+
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+
+	animation: suggestionsAppear 0.2s ease;
+}
+
+.suggestion {
+	padding: 15px 18px;
+
+	cursor: pointer;
+
+	border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+
+	color: white;
+
+	transition:
+		background 0.2s ease,
+		padding-left 0.2s ease,
+		transform 0.15s ease;
+}
+
+.suggestion:hover {
+	background: #334155;
+
+	padding-left: 26px;
+}
+
+/* ---------- OPTIONS GRID ---------- */
+
+#options {
+	width: min(1200px, 95vw);
+
+	display: grid;
+
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+	gap: 25px;
+}
+
+/* ---------- HERO CARD ---------- */
+
+.option {
+	background: #1e293b;
+
+	border-radius: 16px;
+
+	overflow: hidden;
+
+	cursor: pointer;
+
+	transition: 0.25s;
+
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+
+	display: flex;
+	flex-direction: column;
+
+	transition:
+		transform 0.25s ease,
+		box-shadow 0.25s ease;
+}
+
+.option:hover {
+	transform: translateY(-6px);
+	background: #263549;
+
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.option img {
+	width: 100%;
+	aspect-ratio: 2 / 3;
+	object-fit: cover;
+
+	background: #111827;
+}
+
+.option h3 {
+	font-size: 1.4rem;
+
+	padding: 18px 18px 6px;
+}
+
+.option p {
+	color: #94a3b8;
+
+	padding: 0 18px 18px;
+
+	flex-grow: 1;
+}
+
+/* ---------- IMAGES / SHIMMER ----------- */
+
+.optionImage {
+	width: 100%;
+	height: 75vh;
+	border-radius: 10px;
+	overflow: hidden;
+
+	background: linear-gradient(90deg, #525252 25%, #8d8d8d 50%, #525252 75%);
+
+	background-size: 200% 100%;
+	animation: shimmer 1.5s infinite;
+}
+
+.optionImage img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+
+	display: none;
+}
+
+.optionImage.loaded {
+	animation: none;
+	background: none;
+}
+
+.optionImage.loaded img {
+	display: block;
+}
+
+@keyframes shimmer {
+	0% {
+		background-position: -200% 0;
+	}
+
+	100% {
+		background-position: 200% 0;
+	}
+}
+
+/* ---------- RESPONSIVE ---------- */
+
+@media (max-width: 700px) {
+	h1 {
+		font-size: 2.2rem;
+	}
+
+	#options {
+		grid-template-columns: 1fr;
+	}
+}

@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Hero Database | Biography</title>
+		<link rel="stylesheet" href="../CSSs/hero.css" />
+	</head>
+
+	<body>
+		<div class="searchBar">
+			<input type="text" name="superheroInput" id="superheroInput" placeholder="Enter a superhero name..." />
+			<input type="button" value="➔" id="submit" />
+		</div>
+
+		<div id="suggestions"></div>
+
+		<div class="heroContainer">
+			<div class="heroImage">
+				<img id="superheroImg" />
+				<canvas id="powerStats" width="300" height="250"></canvas>
+			</div>
+
+			<div class="heroInfo">
+				<h1 id="superhero"></h1>
+				<h3 id="name"></h3>
+
+				<p id="description"></p>
+
+				<details class="collapsable">
+					<summary>Identity</summary>
+					<p class="collapsableInfo" id="identityP"></p>
+				</details>
+
+				<details class="collapsable">
+					<summary>Appearance</summary>
+					<p class="collapsableInfo" id="appearanceP"></p>
+				</details>
+
+				<details class="collapsable">
+					<summary>Occupation</summary>
+					<p class="collapsableInfo" id="occupationP"></p>
+				</details>
+
+				<details class="collapsable">
+					<summary>Affiliation</summary>
+					<p class="collapsableInfo" id="affiliationP"></p>
+				</details>
+
+				<details class="collapsable">
+					<summary>Family</summary>
+					<p class="collapsableInfo" id="familyP"></p>
+				</details>
+			</div>
+		</div>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+		<script src="../JSs/hero.js" defer></script>
+	</body>
+</html>

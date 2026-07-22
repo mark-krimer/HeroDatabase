@@ -1,0 +1,431 @@
+/* ---------- GLOBAL ---------- */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #0f172a;
+	color: white;
+
+	font-family: "Segoe UI", Arial, sans-serif;
+
+	min-height: 100vh;
+
+	padding: 40px 20px 70px;
+}
+
+.heroContainer {
+	animation: pageEnter 0.5s ease;
+}
+
+@keyframes pageEnter {
+	from {
+		opacity: 0;
+		transform: translateY(20px);
+	}
+
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/* ---------- PAGE TITLE ---------- */
+
+body > h1 {
+	text-align: center;
+
+	font-size: 2.8rem;
+
+	margin-bottom: 35px;
+}
+
+/* ---------- SEARCH ---------- */
+.searchBar {
+	display: flex;
+
+	justify-content: center;
+
+	margin-bottom: 10px;
+}
+
+/* ---------- SEARCH INPUT ---------- */
+
+#superheroInput {
+	width: min(600px, 75vw);
+
+	height: 55px;
+
+	padding: 0 18px;
+
+	border: none;
+
+	border-radius: 14px 0 0 14px;
+
+	background: #1e293b;
+
+	color: white;
+
+	font-size: 1rem;
+
+	outline: none;
+
+	transition:
+		background 0.25s ease,
+		transform 0.2s ease,
+		box-shadow 0.25s ease;
+}
+
+#superheroInput:focus {
+	background: #263549;
+
+	box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.35);
+
+	transform: translateY(-2px);
+}
+
+/* ---------- SEARCH BUTTON ---------- */
+
+#submit {
+	width: 60px;
+
+	height: 55px;
+
+	border: none;
+
+	border-radius: 0 14px 14px 0;
+
+	background: #3b82f6;
+
+	color: white;
+
+	cursor: pointer;
+
+	font-size: 1.3rem;
+
+	transition:
+		background 0.2s ease,
+		transform 0.15s ease,
+		box-shadow 0.2s ease;
+}
+
+#submit:hover {
+	background: #2563eb;
+
+	transform: translateY(-2px);
+
+	box-shadow: 0 5px 15px rgba(59, 130, 246, 0.35);
+}
+
+#submit:active {
+	transform: scale(0.95);
+}
+
+/* ---------- SEARCH SUGGESTIONS ---------- */
+
+#suggestions {
+	width: min(660px, 75vw);
+
+	margin: 8px auto 40px;
+
+	background: #1e293b;
+
+	border-radius: 14px;
+
+	overflow: hidden;
+
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+
+	animation: suggestionsAppear 0.2s ease;
+}
+
+.suggestion {
+	padding: 15px 18px;
+
+	cursor: pointer;
+
+	border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+
+	color: white;
+
+	transition:
+		background 0.2s ease,
+		padding-left 0.2s ease,
+		transform 0.15s ease;
+}
+
+.suggestion:hover {
+	background: #334155;
+
+	padding-left: 26px;
+}
+
+/* ---------- HERO LAYOUT ---------- */
+
+.heroContainer {
+	max-width: 1250px;
+
+	margin: auto;
+
+	display: grid;
+
+	grid-template-columns: 300px 1fr;
+
+	gap: 35px;
+
+	align-items: start;
+}
+
+/* ---------- LEFT COLUMN ---------- */
+
+.heroImage {
+	display: flex;
+
+	flex-direction: column;
+
+	gap: 20px;
+}
+
+.heroImage img {
+	width: 100%;
+
+	border-radius: 18px;
+
+	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.45);
+
+	display: block;
+}
+
+/* ---------- IMAGE / SHIMMER ---------- */
+.heroImage {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 300px;
+}
+
+#superheroImg {
+	opacity: 0;
+	transform: scale(0.95);
+
+	transition:
+		opacity 0.4s ease,
+		transform 0.4s ease;
+}
+
+#superheroImg.loaded {
+	opacity: 1;
+	transform: scale(1);
+}
+
+/* Image placeholder */
+#superheroImg {
+	width: 300px;
+	height: 450px;
+	object-fit: cover;
+	border-radius: 12px;
+	display: none;
+}
+
+/* Skeleton loading box */
+.heroImage::before {
+	content: "";
+	width: 300px;
+	height: 450px;
+	border-radius: 12px;
+
+	background: linear-gradient(90deg, #525252 25%, #8d8d8d 50%, #525252 75%);
+
+	background-size: 200% 100%;
+	animation: shimmer 1.5s infinite;
+}
+
+/* Hide skeleton once loaded */
+.heroImage.loaded::before {
+	display: none;
+}
+
+@keyframes shimmer {
+	0% {
+		background-position: -200% 0;
+	}
+
+	100% {
+		background-position: 200% 0;
+	}
+}
+
+#powerStats {
+	margin-top: 20px;
+	width: 280px !important;
+	height: 180px !important;
+}
+
+/* ---------- RIGHT COLUMN ---------- */
+
+.heroInfo {
+	background: #1e293b;
+
+	border-radius: 18px;
+
+	padding: 35px;
+
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+#superhero {
+	font-size: 3rem;
+
+	margin-bottom: 5px;
+}
+
+#name {
+	color: #60a5fa;
+
+	font-size: 1.4rem;
+
+	font-weight: normal;
+
+	margin-bottom: 30px;
+}
+
+#description {
+	color: #d1d5db;
+
+	font-size: 1.05rem;
+
+	line-height: 1.8;
+
+	margin-bottom: 30px;
+}
+
+/* ---------- COLLAPSABLE SECTIONS ---------- */
+
+.collapsable {
+	background: #263549;
+
+	border-radius: 12px;
+
+	margin-bottom: 12px;
+
+	overflow: hidden;
+
+	transition: background 0.3s ease;
+}
+
+.collapsable:hover {
+	background: #2d3d54;
+}
+
+.collapsable summary {
+	cursor: pointer;
+
+	list-style: none;
+
+	padding: 16px 20px;
+
+	font-size: 1.1rem;
+
+	font-weight: bold;
+
+	color: white;
+}
+
+/* Remove default arrow */
+.collapsable summary::-webkit-details-marker {
+	display: none;
+}
+
+/* Plus / minus animation */
+.collapsable summary::after {
+	content: "+";
+
+	float: right;
+
+	color: #60a5fa;
+
+	font-size: 1.3rem;
+
+	transition: transform 0.3s ease;
+}
+
+.collapsable[open] summary::after {
+	content: "−";
+
+	transform: rotate(180deg);
+}
+
+/* Information inside */
+.collapsableInfo {
+	padding: 0 20px 18px;
+
+	color: #cbd5e1;
+
+	line-height: 1.7;
+
+	animation: collapseFade 0.25s ease;
+}
+
+.collapsableInfo strong {
+	color: white;
+}
+
+/* Opening animation */
+@keyframes collapseFade {
+	from {
+		opacity: 0;
+		transform: translateY(-8px);
+	}
+
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/* ---------- POWER STATS ---------- */
+
+.heroImage {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+#powerStats {
+	width: 100% !important;
+
+	height: 250px !important;
+
+	background: #1e293b;
+
+	border-radius: 15px;
+
+	padding: 15px;
+
+	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+}
+
+/* ---------- RESPONSIVE ---------- */
+
+@media (max-width: 900px) {
+	.heroContainer {
+		grid-template-columns: 1fr;
+	}
+
+	.heroImage {
+		max-width: 320px;
+
+		margin: auto;
+	}
+
+	.heroInfo {
+		padding: 25px;
+	}
+
+	#superhero {
+		font-size: 2.3rem;
+	}
+}

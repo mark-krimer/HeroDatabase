@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Hero Database | Search</title>
+
+		<style>
+			/* ---------- GLOBAL ---------- */
+
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Segoe UI", Arial, sans-serif;
+				background: #0f172a;
+				color: white;
+				min-height: 100vh;
+
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+
+				padding: 60px 20px;
+			}
+
+			/* ---------- TITLE ---------- */
+
+			h1 {
+				font-size: 3rem;
+				margin-bottom: 10px;
+				text-align: center;
+				color: #ffffff;
+			}
+
+			p {
+				color: #94a3b8;
+				margin-bottom: 40px;
+				text-align: center;
+				font-size: 1.1rem;
+				width: 70%;
+			}
+
+			.searchBar {
+				display: flex;
+
+				justify-content: center;
+
+				margin-bottom: 10px;
+			}
+
+			/* ---------- SEARCH INPUT ---------- */
+
+			#superheroInput {
+				width: min(600px, 75vw);
+
+				height: 55px;
+
+				padding: 0 18px;
+
+				border: none;
+
+				border-radius: 14px 0 0 14px;
+
+				background: #1e293b;
+
+				color: white;
+
+				font-size: 1rem;
+
+				outline: none;
+
+				transition:
+					background 0.25s ease,
+					transform 0.2s ease,
+					box-shadow 0.25s ease;
+			}
+
+			#superheroInput:focus {
+				background: #263549;
+
+				box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.35);
+
+				transform: translateY(-2px);
+			}
+
+			/* ---------- SEARCH BUTTON ---------- */
+
+			#submit {
+				width: 60px;
+
+				height: 55px;
+
+				border: none;
+
+				border-radius: 0 14px 14px 0;
+
+				background: #3b82f6;
+
+				color: white;
+
+				cursor: pointer;
+
+				font-size: 1.3rem;
+
+				transition:
+					background 0.2s ease,
+					transform 0.15s ease,
+					box-shadow 0.2s ease;
+			}
+
+			#submit:hover {
+				background: #2563eb;
+
+				transform: translateY(-2px);
+
+				box-shadow: 0 5px 15px rgba(59, 130, 246, 0.35);
+			}
+
+			#submit:active {
+				transform: scale(0.95);
+			}
+
+			/* ---------- SEARCH SUGGESTIONS ---------- */
+
+			#suggestions {
+				width: min(660px, 75vw);
+
+				margin: 8px auto 40px;
+
+				background: #1e293b;
+
+				border-radius: 14px;
+
+				overflow: hidden;
+
+				box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+
+				animation: suggestionsAppear 0.2s ease;
+			}
+
+			.suggestion {
+				padding: 15px 18px;
+
+				cursor: pointer;
+
+				border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+
+				color: white;
+
+				transition:
+					background 0.2s ease,
+					padding-left 0.2s ease,
+					transform 0.15s ease;
+			}
+
+			.suggestion:hover {
+				background: #334155;
+
+				padding-left: 26px;
+			}
+
+			/* ---------- RESPONSIVE ---------- */
+
+			@media (max-width: 650px) {
+				h1 {
+					font-size: 2.2rem;
+				}
+
+				#superheroInput {
+					width: calc(100vw - 100px);
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Superhero Database</h1>
+		<p>
+			Explore the world of superheroes. Search through hundreds of heroes and villains to discover their origins, affiliations, and power statistics. Choose a character to
+			view their complete profile, including their history, appearance, and strengths.
+		</p>
+
+		<div class="searchBar">
+			<input type="text" name="superheroInput" id="superheroInput" placeholder="Enter a superhero name..." />
+			<input type="button" value="➔" id="submit" />
+		</div>
+		<div id="suggestions"></div>
+
+		<script src="../JSs/main.js" defer></script>
+	</body>
+</html>

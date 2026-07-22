@@ -1,0 +1,5119 @@
+[
+	{
+		"id": "1",
+		"name": "A-Bomb",
+		"searchName": "abomb",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10060.jpg"
+	},
+	{
+		"id": "2",
+		"name": "Abe Sapien",
+		"searchName": "abesapien",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/956.jpg"
+	},
+	{
+		"id": "3",
+		"name": "Abin Sur",
+		"searchName": "abinsur",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1460.jpg"
+	},
+	{
+		"id": "4",
+		"name": "Abomination",
+		"searchName": "abomination",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1.jpg"
+	},
+	{
+		"id": "5",
+		"name": "Abraxas",
+		"searchName": "abraxas",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/181.jpg"
+	},
+	{
+		"id": "6",
+		"name": "Absorbing Man",
+		"searchName": "absorbingman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1448.jpg"
+	},
+	{
+		"id": "7",
+		"name": "Adam Monroe",
+		"searchName": "adammonroe",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1026.jpg"
+	},
+	{
+		"id": "8",
+		"name": "Adam Strange",
+		"searchName": "adamstrange",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/626.jpg"
+	},
+	{
+		"id": "9",
+		"name": "Agent 13",
+		"searchName": "agent13",
+		"publisher": "Sharon Carter",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/167.jpg"
+	},
+	{
+		"id": "10",
+		"name": "Agent Bob",
+		"searchName": "agentbob",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10255.jpg"
+	},
+	{
+		"id": "11",
+		"name": "Agent Zero",
+		"searchName": "agentzero",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/396.jpg"
+	},
+	{
+		"id": "12",
+		"name": "Air-Walker",
+		"searchName": "airwalker",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1358.jpg"
+	},
+	{
+		"id": "13",
+		"name": "Ajax",
+		"searchName": "ajax",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10422.jpg"
+	},
+	{
+		"id": "14",
+		"name": "Alan Scott",
+		"searchName": "alanscott",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/698.jpg"
+	},
+	{
+		"id": "15",
+		"name": "Alex Mercer",
+		"searchName": "alexmercer",
+		"publisher": "Wildstorm",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10398.jpg"
+	},
+	{
+		"id": "16",
+		"name": "Alex Woolsly",
+		"searchName": "alexwoolsly",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1309.jpg"
+	},
+	{
+		"id": "17",
+		"name": "Alfred Pennyworth",
+		"searchName": "alfredpennyworth",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/628.jpg"
+	},
+	{
+		"id": "18",
+		"name": "Alien",
+		"searchName": "alien",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10449.jpg"
+	},
+	{
+		"id": "19",
+		"name": "Allan Quatermain",
+		"searchName": "allanquatermain",
+		"publisher": "Wildstorm",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/630.jpg"
+	},
+	{
+		"id": "20",
+		"name": "Amazo",
+		"searchName": "amazo",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1390.jpg"
+	},
+	{
+		"id": "21",
+		"name": "Ammo",
+		"searchName": "ammo",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/184.jpg"
+	},
+	{
+		"id": "22",
+		"name": "Ando Masahashi",
+		"searchName": "andomasahashi",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1310.jpg"
+	},
+	{
+		"id": "23",
+		"name": "Angel",
+		"searchName": "angel",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10431.jpg"
+	},
+	{
+		"id": "24",
+		"name": "Angel",
+		"searchName": "angel",
+		"publisher": "Archangel",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/829.jpg"
+	},
+	{
+		"id": "25",
+		"name": "Angel Dust",
+		"searchName": "angeldust",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10405.jpg"
+	},
+	{
+		"id": "26",
+		"name": "Angel Salvadore",
+		"searchName": "angelsalvadore",
+		"publisher": "Tempest",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1406.jpg"
+	},
+	{
+		"id": "27",
+		"name": "Angela",
+		"searchName": "angela",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1070.jpg"
+	},
+	{
+		"id": "28",
+		"name": "Animal Man",
+		"searchName": "animalman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/632.jpg"
+	},
+	{
+		"id": "29",
+		"name": "Annihilus",
+		"searchName": "annihilus",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1307.jpg"
+	},
+	{
+		"id": "30",
+		"name": "Ant-Man",
+		"searchName": "antman",
+		"publisher": "Giant-Man",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/857.jpg"
+	},
+	{
+		"id": "31",
+		"name": "Ant-Man II",
+		"searchName": "antmanii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/166.jpg"
+	},
+	{
+		"id": "32",
+		"name": "Anti-Monitor",
+		"searchName": "antimonitor",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1292.jpg"
+	},
+	{
+		"id": "33",
+		"name": "Anti-Spawn",
+		"searchName": "antispawn",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1071.jpg"
+	},
+	{
+		"id": "34",
+		"name": "Anti-Venom",
+		"searchName": "antivenom",
+		"publisher": "Toxin",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1485.jpg"
+	},
+	{
+		"id": "35",
+		"name": "Apocalypse",
+		"searchName": "apocalypse",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/852.jpg"
+	},
+	{
+		"id": "36",
+		"name": "Aquababy",
+		"searchName": "aquababy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1389.jpg"
+	},
+	{
+		"id": "37",
+		"name": "Aqualad",
+		"searchName": "aqualad",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1395.jpg"
+	},
+	{
+		"id": "38",
+		"name": "Aquaman",
+		"searchName": "aquaman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/634.jpg"
+	},
+	{
+		"id": "39",
+		"name": "Arachne",
+		"searchName": "arachne",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/882.jpg"
+	},
+	{
+		"id": "40",
+		"name": "Archangel",
+		"searchName": "archangel",
+		"publisher": "Angel",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/838.jpg"
+	},
+	{
+		"id": "41",
+		"name": "Arclight",
+		"searchName": "arclight",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/832.jpg"
+	},
+	{
+		"id": "42",
+		"name": "Ardina",
+		"searchName": "ardina",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10132.jpg"
+	},
+	{
+		"id": "43",
+		"name": "Ares",
+		"searchName": "ares",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1118.jpg"
+	},
+	{
+		"id": "44",
+		"name": "Ariel",
+		"searchName": "ariel",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1348.jpg"
+	},
+	{
+		"id": "45",
+		"name": "Armor",
+		"searchName": "armor",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1347.jpg"
+	},
+	{
+		"id": "46",
+		"name": "Arsenal",
+		"searchName": "arsenal",
+		"publisher": "Speedy",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1014.jpg"
+	},
+	{
+		"id": "47",
+		"name": "Astro Boy",
+		"searchName": "astroboy",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1159.jpg"
+	},
+	{
+		"id": "48",
+		"name": "Atlas",
+		"searchName": "atlas",
+		"publisher": "Goliath",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/878.jpg"
+	},
+	{
+		"id": "49",
+		"name": "Atlas",
+		"searchName": "atlas",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10838.jpg"
+	},
+	{
+		"id": "50",
+		"name": "Atom",
+		"searchName": "atom",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/934.jpg"
+	},
+	{
+		"id": "51",
+		"name": "Atom",
+		"searchName": "atom",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1379.jpg"
+	},
+	{
+		"id": "52",
+		"name": "Atom Girl",
+		"searchName": "atomgirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1180.jpg"
+	},
+	{
+		"id": "53",
+		"name": "Atom II",
+		"searchName": "atomii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/938.jpg"
+	},
+	{
+		"id": "54",
+		"name": "Atom III",
+		"searchName": "atomiii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/939.jpg"
+	},
+	{
+		"id": "55",
+		"name": "Atom IV",
+		"searchName": "atomiv",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/940.jpg"
+	},
+	{
+		"id": "56",
+		"name": "Aurora",
+		"searchName": "aurora",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1289.jpg"
+	},
+	{
+		"id": "57",
+		"name": "Azazel",
+		"searchName": "azazel",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1481.jpg"
+	},
+	{
+		"id": "58",
+		"name": "Azrael",
+		"searchName": "azrael",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1532.jpg"
+	},
+	{
+		"id": "59",
+		"name": "Aztar",
+		"searchName": "aztar",
+		"publisher": "Spectre",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1012.jpg"
+	},
+	{
+		"id": "60",
+		"name": "Bane",
+		"searchName": "bane",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/637.jpg"
+	},
+	{
+		"id": "61",
+		"name": "Banshee",
+		"searchName": "banshee",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/26.jpg"
+	},
+	{
+		"id": "62",
+		"name": "Bantam",
+		"searchName": "bantam",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/229.jpg"
+	},
+	{
+		"id": "63",
+		"name": "Batgirl",
+		"searchName": "batgirl",
+		"publisher": "Oracle",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1111.jpg"
+	},
+	{
+		"id": "64",
+		"name": "Batgirl",
+		"searchName": "batgirl",
+		"publisher": "Hawkfire",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/638.jpg"
+	},
+	{
+		"id": "65",
+		"name": "Batgirl III",
+		"searchName": "batgirliii",
+		"publisher": "Huntress",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1112.jpg"
+	},
+	{
+		"id": "66",
+		"name": "Batgirl IV",
+		"searchName": "batgirliv",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1113.jpg"
+	},
+	{
+		"id": "67",
+		"name": "Batgirl V",
+		"searchName": "batgirlv",
+		"publisher": "Misfit",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1115.jpg"
+	},
+	{
+		"id": "68",
+		"name": "Batgirl VI",
+		"searchName": "batgirlvi",
+		"publisher": "Spoiler",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1398.jpg"
+	},
+	{
+		"id": "69",
+		"name": "Batman",
+		"searchName": "batman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10441.jpg"
+	},
+	{
+		"id": "70",
+		"name": "Batman",
+		"searchName": "batman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
+	},
+	{
+		"id": "71",
+		"name": "Batman II",
+		"searchName": "batmanii",
+		"publisher": "Nightwing",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1496.jpg"
+	},
+	{
+		"id": "72",
+		"name": "Battlestar",
+		"searchName": "battlestar",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/231.jpg"
+	},
+	{
+		"id": "73",
+		"name": "Batwoman V",
+		"searchName": "batwomanv",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10234.jpg"
+	},
+	{
+		"id": "74",
+		"name": "Beak",
+		"searchName": "beak",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/232.jpg"
+	},
+	{
+		"id": "75",
+		"name": "Beast",
+		"searchName": "beast",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/27.jpg"
+	},
+	{
+		"id": "76",
+		"name": "Beast Boy",
+		"searchName": "beastboy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/640.jpg"
+	},
+	{
+		"id": "77",
+		"name": "Beetle",
+		"searchName": "beetle",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1122.jpg"
+	},
+	{
+		"id": "78",
+		"name": "Ben 10",
+		"searchName": "ben10",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1365.jpg"
+	},
+	{
+		"id": "79",
+		"name": "Beta Ray Bill",
+		"searchName": "betaraybill",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/28.jpg"
+	},
+	{
+		"id": "80",
+		"name": "Beyonder",
+		"searchName": "beyonder",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1293.jpg"
+	},
+	{
+		"id": "81",
+		"name": "Big Barda",
+		"searchName": "bigbarda",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1169.jpg"
+	},
+	{
+		"id": "82",
+		"name": "Big Daddy",
+		"searchName": "bigdaddy",
+		"publisher": "Icon Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1338.jpg"
+	},
+	{
+		"id": "83",
+		"name": "Big Man",
+		"searchName": "bigman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1038.jpg"
+	},
+	{
+		"id": "84",
+		"name": "Bill Harken",
+		"searchName": "billharken",
+		"publisher": "SyFy",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1527.jpg"
+	},
+	{
+		"id": "85",
+		"name": "Billy Kincaid",
+		"searchName": "billykincaid",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1072.jpg"
+	},
+	{
+		"id": "86",
+		"name": "Binary",
+		"searchName": "binary",
+		"publisher": "Captain Marvel",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/30.jpg"
+	},
+	{
+		"id": "87",
+		"name": "Bionic Woman",
+		"searchName": "bionicwoman",
+		"publisher": null,
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10648.jpg"
+	},
+	{
+		"id": "88",
+		"name": "Bird-Brain",
+		"searchName": "birdbrain",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/240.jpg"
+	},
+	{
+		"id": "89",
+		"name": "Bird-Man",
+		"searchName": "birdman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1503.jpg"
+	},
+	{
+		"id": "90",
+		"name": "Bird-Man II",
+		"searchName": "birdmanii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1504.jpg"
+	},
+	{
+		"id": "91",
+		"name": "Birdman",
+		"searchName": "birdman",
+		"publisher": "Hanna-Barbera",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1506.jpg"
+	},
+	{
+		"id": "92",
+		"name": "Bishop",
+		"searchName": "bishop",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/31.jpg"
+	},
+	{
+		"id": "93",
+		"name": "Bizarro",
+		"searchName": "bizarro",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/642.jpg"
+	},
+	{
+		"id": "94",
+		"name": "Black Abbott",
+		"searchName": "blackabbott",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1049.jpg"
+	},
+	{
+		"id": "95",
+		"name": "Black Adam",
+		"searchName": "blackadam",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/643.jpg"
+	},
+	{
+		"id": "96",
+		"name": "Black Bolt",
+		"searchName": "blackbolt",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/243.jpg"
+	},
+	{
+		"id": "97",
+		"name": "Black Canary",
+		"searchName": "blackcanary",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1005.jpg"
+	},
+	{
+		"id": "98",
+		"name": "Black Canary",
+		"searchName": "blackcanary",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/644.jpg"
+	},
+	{
+		"id": "99",
+		"name": "Black Cat",
+		"searchName": "blackcat",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/32.jpg"
+	},
+	{
+		"id": "100",
+		"name": "Black Flash",
+		"searchName": "blackflash",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10831.jpg"
+	},
+	{
+		"id": "101",
+		"name": "Black Goliath",
+		"searchName": "blackgoliath",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/245.jpg"
+	},
+	{
+		"id": "102",
+		"name": "Black Knight III",
+		"searchName": "blackknightiii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/246.jpg"
+	},
+	{
+		"id": "103",
+		"name": "Black Lightning",
+		"searchName": "blacklightning",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1128.jpg"
+	},
+	{
+		"id": "104",
+		"name": "Black Mamba",
+		"searchName": "blackmamba",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1106.jpg"
+	},
+	{
+		"id": "105",
+		"name": "Black Manta",
+		"searchName": "blackmanta",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10546.jpg"
+	},
+	{
+		"id": "106",
+		"name": "Black Panther",
+		"searchName": "blackpanther",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/247.jpg"
+	},
+	{
+		"id": "107",
+		"name": "Black Widow",
+		"searchName": "blackwidow",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/248.jpg"
+	},
+	{
+		"id": "108",
+		"name": "Black Widow II",
+		"searchName": "blackwidowii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/618.jpg"
+	},
+	{
+		"id": "109",
+		"name": "Blackout",
+		"searchName": "blackout",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1507.jpg"
+	},
+	{
+		"id": "110",
+		"name": "Blackwing",
+		"searchName": "blackwing",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/249.jpg"
+	},
+	{
+		"id": "111",
+		"name": "Blackwulf",
+		"searchName": "blackwulf",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1508.jpg"
+	},
+	{
+		"id": "112",
+		"name": "Blade",
+		"searchName": "blade",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/33.jpg"
+	},
+	{
+		"id": "113",
+		"name": "Blaquesmith",
+		"searchName": "blaquesmith",
+		"publisher": "Vertigo II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/34.jpg"
+	},
+	{
+		"id": "114",
+		"name": "Bling!",
+		"searchName": "bling",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1349.jpg"
+	},
+	{
+		"id": "115",
+		"name": "Blink",
+		"searchName": "blink",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/35.jpg"
+	},
+	{
+		"id": "116",
+		"name": "Blizzard",
+		"searchName": "blizzard",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/899.jpg"
+	},
+	{
+		"id": "117",
+		"name": "Blizzard",
+		"searchName": "blizzard",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/898.jpg"
+	},
+	{
+		"id": "118",
+		"name": "Blizzard II",
+		"searchName": "blizzardii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/619.jpg"
+	},
+	{
+		"id": "119",
+		"name": "Blob",
+		"searchName": "blob",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1119.jpg"
+	},
+	{
+		"id": "120",
+		"name": "Bloodaxe",
+		"searchName": "bloodaxe",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1509.jpg"
+	},
+	{
+		"id": "121",
+		"name": "Bloodhawk",
+		"searchName": "bloodhawk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1510.jpg"
+	},
+	{
+		"id": "122",
+		"name": "Bloodwraith",
+		"searchName": "bloodwraith",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/186.jpg"
+	},
+	{
+		"id": "123",
+		"name": "Blue Beetle",
+		"searchName": "bluebeetle",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/646.jpg"
+	},
+	{
+		"id": "124",
+		"name": "Blue Beetle",
+		"searchName": "bluebeetle",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1010.jpg"
+	},
+	{
+		"id": "125",
+		"name": "Blue Beetle II",
+		"searchName": "bluebeetleii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1008.jpg"
+	},
+	{
+		"id": "126",
+		"name": "Blue Beetle III",
+		"searchName": "bluebeetleiii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1009.jpg"
+	},
+	{
+		"id": "127",
+		"name": "Boba Fett",
+		"searchName": "bobafett",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10467.jpg"
+	},
+	{
+		"id": "128",
+		"name": "Bolt",
+		"searchName": "bolt",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1340.jpg"
+	},
+	{
+		"id": "129",
+		"name": "Bomb Queen",
+		"searchName": "bombqueen",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1116.jpg"
+	},
+	{
+		"id": "130",
+		"name": "Boom-Boom",
+		"searchName": "boomboom",
+		"publisher": "Meltdown",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/400.jpg"
+	},
+	{
+		"id": "131",
+		"name": "Boomer",
+		"searchName": "boomer",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/259.jpg"
+	},
+	{
+		"id": "132",
+		"name": "Booster Gold",
+		"searchName": "boostergold",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/647.jpg"
+	},
+	{
+		"id": "133",
+		"name": "Box",
+		"searchName": "box",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/864.jpg"
+	},
+	{
+		"id": "134",
+		"name": "Box III",
+		"searchName": "boxiii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/37.jpg"
+	},
+	{
+		"id": "135",
+		"name": "Box IV",
+		"searchName": "boxiv",
+		"publisher": "Gemini V",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/38.jpg"
+	},
+	{
+		"id": "136",
+		"name": "Brainiac",
+		"searchName": "brainiac",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/648.jpg"
+	},
+	{
+		"id": "137",
+		"name": "Brainiac 5",
+		"searchName": "brainiac5",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1183.jpg"
+	},
+	{
+		"id": "138",
+		"name": "Brother Voodoo",
+		"searchName": "brothervoodoo",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/39.jpg"
+	},
+	{
+		"id": "139",
+		"name": "Brundlefly",
+		"searchName": "brundlefly",
+		"publisher": null,
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10642.jpg"
+	},
+	{
+		"id": "140",
+		"name": "Buffy",
+		"searchName": "buffy",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10430.jpg"
+	},
+	{
+		"id": "141",
+		"name": "Bullseye",
+		"searchName": "bullseye",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/624.jpg"
+	},
+	{
+		"id": "142",
+		"name": "Bumblebee",
+		"searchName": "bumblebee",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1542.jpg"
+	},
+	{
+		"id": "143",
+		"name": "Bumbleboy",
+		"searchName": "bumbleboy",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1346.jpg"
+	},
+	{
+		"id": "144",
+		"name": "Bushido",
+		"searchName": "bushido",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1541.jpg"
+	},
+	{
+		"id": "145",
+		"name": "Cable",
+		"searchName": "cable",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/40.jpg"
+	},
+	{
+		"id": "146",
+		"name": "Callisto",
+		"searchName": "callisto",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/271.jpg"
+	},
+	{
+		"id": "147",
+		"name": "Cameron Hicks",
+		"searchName": "cameronhicks",
+		"publisher": "SyFy",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1528.jpg"
+	},
+	{
+		"id": "148",
+		"name": "Cannonball",
+		"searchName": "cannonball",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/272.jpg"
+	},
+	{
+		"id": "149",
+		"name": "Captain America",
+		"searchName": "captainamerica",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/274.jpg"
+	},
+	{
+		"id": "150",
+		"name": "Captain Atom",
+		"searchName": "captainatom",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1007.jpg"
+	},
+	{
+		"id": "151",
+		"name": "Captain Britain",
+		"searchName": "captainbritain",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/276.jpg"
+	},
+	{
+		"id": "152",
+		"name": "Captain Cold",
+		"searchName": "captaincold",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/653.jpg"
+	},
+	{
+		"id": "153",
+		"name": "Captain Epic",
+		"searchName": "captainepic",
+		"publisher": "Team Epic TV",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/3.jpg"
+	},
+	{
+		"id": "154",
+		"name": "Captain Hindsight",
+		"searchName": "captainhindsight",
+		"publisher": "South Park",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10399.jpg"
+	},
+	{
+		"id": "155",
+		"name": "Captain Mar-vell",
+		"searchName": "captainmarvell",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/654.jpg"
+	},
+	{
+		"id": "156",
+		"name": "Captain Marvel",
+		"searchName": "captainmarvel",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/278.jpg"
+	},
+	{
+		"id": "157",
+		"name": "Captain Marvel",
+		"searchName": "captainmarvel",
+		"publisher": "Binary",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/103.jpg"
+	},
+	{
+		"id": "158",
+		"name": "Captain Marvel II",
+		"searchName": "captainmarvelii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/279.jpg"
+	},
+	{
+		"id": "159",
+		"name": "Captain Midnight",
+		"searchName": "captainmidnight",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10443.jpg"
+	},
+	{
+		"id": "160",
+		"name": "Captain Planet",
+		"searchName": "captainplanet",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1285.jpg"
+	},
+	{
+		"id": "161",
+		"name": "Captain Universe",
+		"searchName": "captainuniverse",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/855.jpg"
+	},
+	{
+		"id": "162",
+		"name": "Carnage",
+		"searchName": "carnage",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/187.jpg"
+	},
+	{
+		"id": "163",
+		"name": "Cat",
+		"searchName": "cat",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/904.jpg"
+	},
+	{
+		"id": "164",
+		"name": "Cat II",
+		"searchName": "catii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/903.jpg"
+	},
+	{
+		"id": "165",
+		"name": "Catwoman",
+		"searchName": "catwoman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/659.jpg"
+	},
+	{
+		"id": "166",
+		"name": "Cecilia Reyes",
+		"searchName": "ceciliareyes",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/43.jpg"
+	},
+	{
+		"id": "167",
+		"name": "Century",
+		"searchName": "century",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1511.jpg"
+	},
+	{
+		"id": "168",
+		"name": "Cerebra",
+		"searchName": "cerebra",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1512.jpg"
+	},
+	{
+		"id": "169",
+		"name": "Chamber",
+		"searchName": "chamber",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/44.jpg"
+	},
+	{
+		"id": "170",
+		"name": "Chameleon",
+		"searchName": "chameleon",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/660.jpg"
+	},
+	{
+		"id": "171",
+		"name": "Changeling",
+		"searchName": "changeling",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1107.jpg"
+	},
+	{
+		"id": "172",
+		"name": "Cheetah",
+		"searchName": "cheetah",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/661.jpg"
+	},
+	{
+		"id": "173",
+		"name": "Cheetah II",
+		"searchName": "cheetahii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/925.jpg"
+	},
+	{
+		"id": "174",
+		"name": "Cheetah III",
+		"searchName": "cheetahiii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/926.jpg"
+	},
+	{
+		"id": "175",
+		"name": "Chromos",
+		"searchName": "chromos",
+		"publisher": "Team Epic TV",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1001.jpg"
+	},
+	{
+		"id": "176",
+		"name": "Chuck Norris",
+		"searchName": "chucknorris",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/954.jpg"
+	},
+	{
+		"id": "177",
+		"name": "Citizen Steel",
+		"searchName": "citizensteel",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10661.jpg"
+	},
+	{
+		"id": "178",
+		"name": "Claire Bennet",
+		"searchName": "clairebennet",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/941.jpg"
+	},
+	{
+		"id": "179",
+		"name": "Clea",
+		"searchName": "clea",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/45.jpg"
+	},
+	{
+		"id": "180",
+		"name": "Cloak",
+		"searchName": "cloak",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/46.jpg"
+	},
+	{
+		"id": "181",
+		"name": "Clock King",
+		"searchName": "clockking",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10396.jpg"
+	},
+	{
+		"id": "182",
+		"name": "Cogliostro",
+		"searchName": "cogliostro",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1074.jpg"
+	},
+	{
+		"id": "183",
+		"name": "Colin Wagner",
+		"searchName": "colinwagner",
+		"publisher": "HarperCollins",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1153.jpg"
+	},
+	{
+		"id": "184",
+		"name": "Colossal Boy",
+		"searchName": "colossalboy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1182.jpg"
+	},
+	{
+		"id": "185",
+		"name": "Colossus",
+		"searchName": "colossus",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/48.jpg"
+	},
+	{
+		"id": "186",
+		"name": "Copycat",
+		"searchName": "copycat",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10423.jpg"
+	},
+	{
+		"id": "187",
+		"name": "Corsair",
+		"searchName": "corsair",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/49.jpg"
+	},
+	{
+		"id": "188",
+		"name": "Cottonmouth",
+		"searchName": "cottonmouth",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10452.jpg"
+	},
+	{
+		"id": "189",
+		"name": "Crimson Crusader",
+		"searchName": "crimsoncrusader",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/303.jpg"
+	},
+	{
+		"id": "190",
+		"name": "Crimson Dynamo",
+		"searchName": "crimsondynamo",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1093.jpg"
+	},
+	{
+		"id": "191",
+		"name": "Crystal",
+		"searchName": "crystal",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/305.jpg"
+	},
+	{
+		"id": "192",
+		"name": "Curse",
+		"searchName": "curse",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1066.jpg"
+	},
+	{
+		"id": "193",
+		"name": "Cy-Gor",
+		"searchName": "cygor",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1075.jpg"
+	},
+	{
+		"id": "194",
+		"name": "Cyborg",
+		"searchName": "cyborg",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1204.jpg"
+	},
+	{
+		"id": "195",
+		"name": "Cyborg Superman",
+		"searchName": "cyborgsuperman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/667.jpg"
+	},
+	{
+		"id": "196",
+		"name": "Cyclops",
+		"searchName": "cyclops",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/50.jpg"
+	},
+	{
+		"id": "197",
+		"name": "Cypher",
+		"searchName": "cypher",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/168.jpg"
+	},
+	{
+		"id": "198",
+		"name": "Dagger",
+		"searchName": "dagger",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/51.jpg"
+	},
+	{
+		"id": "199",
+		"name": "Danny Cooper",
+		"searchName": "dannycooper",
+		"publisher": "HarperCollins",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1152.jpg"
+	},
+	{
+		"id": "200",
+		"name": "Daphne Powell",
+		"searchName": "daphnepowell",
+		"publisher": "ABC Studios",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1356.jpg"
+	},
+	{
+		"id": "201",
+		"name": "Daredevil",
+		"searchName": "daredevil",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/52.jpg"
+	},
+	{
+		"id": "202",
+		"name": "Darkhawk",
+		"searchName": "darkhawk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/53.jpg"
+	},
+	{
+		"id": "203",
+		"name": "Darkman",
+		"searchName": "darkman",
+		"publisher": "Universal Studios",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1126.jpg"
+	},
+	{
+		"id": "204",
+		"name": "Darkseid",
+		"searchName": "darkseid",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/668.jpg"
+	},
+	{
+		"id": "205",
+		"name": "Darkside",
+		"searchName": "darkside",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/840.jpg"
+	},
+	{
+		"id": "206",
+		"name": "Darkstar",
+		"searchName": "darkstar",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/169.jpg"
+	},
+	{
+		"id": "207",
+		"name": "Darth Maul",
+		"searchName": "darthmaul",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10464.jpg"
+	},
+	{
+		"id": "208",
+		"name": "Darth Vader",
+		"searchName": "darthvader",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10444.jpg"
+	},
+	{
+		"id": "209",
+		"name": "Dash",
+		"searchName": "dash",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/824.jpg"
+	},
+	{
+		"id": "210",
+		"name": "Data",
+		"searchName": "data",
+		"publisher": "Star Trek",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10577.jpg"
+	},
+	{
+		"id": "211",
+		"name": "Dazzler",
+		"searchName": "dazzler",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1043.jpg"
+	},
+	{
+		"id": "212",
+		"name": "Deadman",
+		"searchName": "deadman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1472.jpg"
+	},
+	{
+		"id": "213",
+		"name": "Deadpool",
+		"searchName": "deadpool",
+		"publisher": "Evil Deadpool",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/835.jpg"
+	},
+	{
+		"id": "214",
+		"name": "Deadshot",
+		"searchName": "deadshot",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/670.jpg"
+	},
+	{
+		"id": "215",
+		"name": "Deathlok",
+		"searchName": "deathlok",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1304.jpg"
+	},
+	{
+		"id": "216",
+		"name": "Deathstroke",
+		"searchName": "deathstroke",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/672.jpg"
+	},
+	{
+		"id": "217",
+		"name": "Demogoblin",
+		"searchName": "demogoblin",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1515.jpg"
+	},
+	{
+		"id": "218",
+		"name": "Destroyer",
+		"searchName": "destroyer",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1294.jpg"
+	},
+	{
+		"id": "219",
+		"name": "Diamondback",
+		"searchName": "diamondback",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1404.jpg"
+	},
+	{
+		"id": "220",
+		"name": "DL Hawkins",
+		"searchName": "dlhawkins",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/943.jpg"
+	},
+	{
+		"id": "221",
+		"name": "Doc Samson",
+		"searchName": "docsamson",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/54.jpg"
+	},
+	{
+		"id": "222",
+		"name": "Doctor Doom",
+		"searchName": "doctordoom",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/189.jpg"
+	},
+	{
+		"id": "223",
+		"name": "Doctor Doom II",
+		"searchName": "doctordoomii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1018.jpg"
+	},
+	{
+		"id": "224",
+		"name": "Doctor Fate",
+		"searchName": "doctorfate",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/676.jpg"
+	},
+	{
+		"id": "225",
+		"name": "Doctor Octopus",
+		"searchName": "doctoroctopus",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/622.jpg"
+	},
+	{
+		"id": "226",
+		"name": "Doctor Strange",
+		"searchName": "doctorstrange",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/55.jpg"
+	},
+	{
+		"id": "227",
+		"name": "Domino",
+		"searchName": "domino",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/902.jpg"
+	},
+	{
+		"id": "228",
+		"name": "Donatello",
+		"searchName": "donatello",
+		"publisher": "IDW Publishing",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10330.jpg"
+	},
+	{
+		"id": "229",
+		"name": "Donna Troy",
+		"searchName": "donnatroy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/806.jpg"
+	},
+	{
+		"id": "230",
+		"name": "Doomsday",
+		"searchName": "doomsday",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/679.jpg"
+	},
+	{
+		"id": "231",
+		"name": "Doppelganger",
+		"searchName": "doppelganger",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1320.jpg"
+	},
+	{
+		"id": "232",
+		"name": "Dormammu",
+		"searchName": "dormammu",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1359.jpg"
+	},
+	{
+		"id": "233",
+		"name": "Dr Manhattan",
+		"searchName": "drmanhattan",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/884.jpg"
+	},
+	{
+		"id": "234",
+		"name": "Drax the Destroyer",
+		"searchName": "draxthedestroyer",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10016.jpg"
+	},
+	{
+		"id": "235",
+		"name": "Ego",
+		"searchName": "ego",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/6.jpg"
+	},
+	{
+		"id": "236",
+		"name": "Elastigirl",
+		"searchName": "elastigirl",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/870.jpg"
+	},
+	{
+		"id": "237",
+		"name": "Electro",
+		"searchName": "electro",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/7.jpg"
+	},
+	{
+		"id": "238",
+		"name": "Elektra",
+		"searchName": "elektra",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/625.jpg"
+	},
+	{
+		"id": "239",
+		"name": "Elle Bishop",
+		"searchName": "ellebishop",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1021.jpg"
+	},
+	{
+		"id": "240",
+		"name": "Elongated Man",
+		"searchName": "elongatedman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1381.jpg"
+	},
+	{
+		"id": "241",
+		"name": "Emma Frost",
+		"searchName": "emmafrost",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/325.jpg"
+	},
+	{
+		"id": "242",
+		"name": "Enchantress",
+		"searchName": "enchantress",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/687.jpg"
+	},
+	{
+		"id": "243",
+		"name": "Energy",
+		"searchName": "energy",
+		"publisher": "HarperCollins",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1155.jpg"
+	},
+	{
+		"id": "244",
+		"name": "ERG-1",
+		"searchName": "erg1",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1187.jpg"
+	},
+	{
+		"id": "245",
+		"name": "Ethan Hunt",
+		"searchName": "ethanhunt",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10476.jpg"
+	},
+	{
+		"id": "246",
+		"name": "Etrigan",
+		"searchName": "etrigan",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10429.jpg"
+	},
+	{
+		"id": "247",
+		"name": "Evil Deadpool",
+		"searchName": "evildeadpool",
+		"publisher": "Deadpool",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10090.jpg"
+	},
+	{
+		"id": "248",
+		"name": "Evilhawk",
+		"searchName": "evilhawk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1516.jpg"
+	},
+	{
+		"id": "249",
+		"name": "Exodus",
+		"searchName": "exodus",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1517.jpg"
+	},
+	{
+		"id": "250",
+		"name": "Fabian Cortez",
+		"searchName": "fabiancortez",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/24.jpg"
+	},
+	{
+		"id": "251",
+		"name": "Falcon",
+		"searchName": "falcon",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/56.jpg"
+	},
+	{
+		"id": "252",
+		"name": "Fallen One II",
+		"searchName": "fallenoneii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1051.jpg"
+	},
+	{
+		"id": "253",
+		"name": "Faora",
+		"searchName": "faora",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1502.jpg"
+	},
+	{
+		"id": "254",
+		"name": "Feral",
+		"searchName": "feral",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/57.jpg"
+	},
+	{
+		"id": "255",
+		"name": "Fighting Spirit",
+		"searchName": "fightingspirit",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1167.jpg"
+	},
+	{
+		"id": "256",
+		"name": "Fin Fang Foom",
+		"searchName": "finfangfoom",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1518.jpg"
+	},
+	{
+		"id": "257",
+		"name": "Firebird",
+		"searchName": "firebird",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/58.jpg"
+	},
+	{
+		"id": "258",
+		"name": "Firelord",
+		"searchName": "firelord",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/59.jpg"
+	},
+	{
+		"id": "259",
+		"name": "Firestar",
+		"searchName": "firestar",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/60.jpg"
+	},
+	{
+		"id": "260",
+		"name": "Firestorm",
+		"searchName": "firestorm",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/689.jpg"
+	},
+	{
+		"id": "261",
+		"name": "Firestorm",
+		"searchName": "firestorm",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10395.jpg"
+	},
+	{
+		"id": "262",
+		"name": "Fixer",
+		"searchName": "fixer",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/9.jpg"
+	},
+	{
+		"id": "263",
+		"name": "Flash",
+		"searchName": "flash",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/891.jpg"
+	},
+	{
+		"id": "264",
+		"name": "Flash Gordon",
+		"searchName": "flashgordon",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1345.jpg"
+	},
+	{
+		"id": "265",
+		"name": "Flash II",
+		"searchName": "flashii",
+		"publisher": "Black Racer",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/892.jpg"
+	},
+	{
+		"id": "266",
+		"name": "Flash III",
+		"searchName": "flashiii",
+		"publisher": "Speed Demon",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/690.jpg"
+	},
+	{
+		"id": "267",
+		"name": "Flash IV",
+		"searchName": "flashiv",
+		"publisher": "Impulse",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/893.jpg"
+	},
+	{
+		"id": "268",
+		"name": "Forge",
+		"searchName": "forge",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/62.jpg"
+	},
+	{
+		"id": "269",
+		"name": "Franklin Richards",
+		"searchName": "franklinrichards",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/63.jpg"
+	},
+	{
+		"id": "270",
+		"name": "Franklin Storm",
+		"searchName": "franklinstorm",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/170.jpg"
+	},
+	{
+		"id": "271",
+		"name": "Frenzy",
+		"searchName": "frenzy",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1108.jpg"
+	},
+	{
+		"id": "272",
+		"name": "Frigga",
+		"searchName": "frigga",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/172.jpg"
+	},
+	{
+		"id": "273",
+		"name": "Galactus",
+		"searchName": "galactus",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/862.jpg"
+	},
+	{
+		"id": "274",
+		"name": "Gambit",
+		"searchName": "gambit",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/64.jpg"
+	},
+	{
+		"id": "275",
+		"name": "Gamora",
+		"searchName": "gamora",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/65.jpg"
+	},
+	{
+		"id": "276",
+		"name": "Garbage Man",
+		"searchName": "garbageman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1467.jpg"
+	},
+	{
+		"id": "277",
+		"name": "Gary Bell",
+		"searchName": "garybell",
+		"publisher": "SyFy",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1526.jpg"
+	},
+	{
+		"id": "278",
+		"name": "General Zod",
+		"searchName": "generalzod",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/837.jpg"
+	},
+	{
+		"id": "279",
+		"name": "Genesis",
+		"searchName": "genesis",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1055.jpg"
+	},
+	{
+		"id": "280",
+		"name": "Ghost Rider",
+		"searchName": "ghostrider",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/67.jpg"
+	},
+	{
+		"id": "281",
+		"name": "Ghost Rider II",
+		"searchName": "ghostriderii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/68.jpg"
+	},
+	{
+		"id": "282",
+		"name": "Giant-Man",
+		"searchName": "giantman",
+		"publisher": "Ant-Man",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/858.jpg"
+	},
+	{
+		"id": "283",
+		"name": "Giant-Man II",
+		"searchName": "giantmanii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/343.jpg"
+	},
+	{
+		"id": "284",
+		"name": "Giganta",
+		"searchName": "giganta",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1376.jpg"
+	},
+	{
+		"id": "285",
+		"name": "Gladiator",
+		"searchName": "gladiator",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1521.jpg"
+	},
+	{
+		"id": "286",
+		"name": "Goblin Queen",
+		"searchName": "goblinqueen",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1054.jpg"
+	},
+	{
+		"id": "287",
+		"name": "Godzilla",
+		"searchName": "godzilla",
+		"publisher": null,
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10590.jpg"
+	},
+	{
+		"id": "288",
+		"name": "Gog",
+		"searchName": "gog",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/693.jpg"
+	},
+	{
+		"id": "289",
+		"name": "Goku",
+		"searchName": "goku",
+		"publisher": "Shueisha",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1284.jpg"
+	},
+	{
+		"id": "290",
+		"name": "Goliath",
+		"searchName": "goliath",
+		"publisher": "Atlas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/845.jpg"
+	},
+	{
+		"id": "291",
+		"name": "Goliath",
+		"searchName": "goliath",
+		"publisher": "Hawkeye",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/847.jpg"
+	},
+	{
+		"id": "292",
+		"name": "Goliath",
+		"searchName": "goliath",
+		"publisher": "Ant-Man",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/846.jpg"
+	},
+	{
+		"id": "293",
+		"name": "Goliath IV",
+		"searchName": "goliathiv",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/879.jpg"
+	},
+	{
+		"id": "294",
+		"name": "Gorilla Grodd",
+		"searchName": "gorillagrodd",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/694.jpg"
+	},
+	{
+		"id": "295",
+		"name": "Granny Goodness",
+		"searchName": "grannygoodness",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1344.jpg"
+	},
+	{
+		"id": "296",
+		"name": "Gravity",
+		"searchName": "gravity",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/74.jpg"
+	},
+	{
+		"id": "297",
+		"name": "Greedo",
+		"searchName": "greedo",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10468.jpg"
+	},
+	{
+		"id": "298",
+		"name": "Green Arrow",
+		"searchName": "greenarrow",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/696.jpg"
+	},
+	{
+		"id": "299",
+		"name": "Green Goblin",
+		"searchName": "greengoblin",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/579.jpg"
+	},
+	{
+		"id": "300",
+		"name": "Green Goblin II",
+		"searchName": "greengoblinii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/25.jpg"
+	},
+	{
+		"id": "301",
+		"name": "Green Goblin III",
+		"searchName": "greengobliniii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/351.jpg"
+	},
+	{
+		"id": "302",
+		"name": "Green Goblin IV",
+		"searchName": "greengobliniv",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/75.jpg"
+	},
+	{
+		"id": "303",
+		"name": "Groot",
+		"searchName": "groot",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10017.jpg"
+	},
+	{
+		"id": "304",
+		"name": "Guardian",
+		"searchName": "guardian",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/76.jpg"
+	},
+	{
+		"id": "305",
+		"name": "Guy Gardner",
+		"searchName": "guygardner",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/700.jpg"
+	},
+	{
+		"id": "306",
+		"name": "Hal Jordan",
+		"searchName": "haljordan",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/697.jpg"
+	},
+	{
+		"id": "307",
+		"name": "Han Solo",
+		"searchName": "hansolo",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10456.jpg"
+	},
+	{
+		"id": "308",
+		"name": "Hancock",
+		"searchName": "hancock",
+		"publisher": "Sony Pictures",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1109.jpg"
+	},
+	{
+		"id": "309",
+		"name": "Harley Quinn",
+		"searchName": "harleyquinn",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/701.jpg"
+	},
+	{
+		"id": "310",
+		"name": "Harry Potter",
+		"searchName": "harrypotter",
+		"publisher": "J. K. Rowling",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10878.jpg"
+	},
+	{
+		"id": "311",
+		"name": "Havok",
+		"searchName": "havok",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/77.jpg"
+	},
+	{
+		"id": "312",
+		"name": "Hawk",
+		"searchName": "hawk",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1382.jpg"
+	},
+	{
+		"id": "313",
+		"name": "Hawkeye",
+		"searchName": "hawkeye",
+		"publisher": "Goliath",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/73.jpg"
+	},
+	{
+		"id": "314",
+		"name": "Hawkeye II",
+		"searchName": "hawkeyeii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10043.jpg"
+	},
+	{
+		"id": "315",
+		"name": "Hawkgirl",
+		"searchName": "hawkgirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/703.jpg"
+	},
+	{
+		"id": "316",
+		"name": "Hawkman",
+		"searchName": "hawkman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/839.jpg"
+	},
+	{
+		"id": "317",
+		"name": "Hawkwoman",
+		"searchName": "hawkwoman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/702.jpg"
+	},
+	{
+		"id": "318",
+		"name": "Hawkwoman II",
+		"searchName": "hawkwomanii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1129.jpg"
+	},
+	{
+		"id": "319",
+		"name": "Hawkwoman III",
+		"searchName": "hawkwomaniii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1130.jpg"
+	},
+	{
+		"id": "320",
+		"name": "Heat Wave",
+		"searchName": "heatwave",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/705.jpg"
+	},
+	{
+		"id": "321",
+		"name": "Hela",
+		"searchName": "hela",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10835.jpg"
+	},
+	{
+		"id": "322",
+		"name": "Hellboy",
+		"searchName": "hellboy",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/813.jpg"
+	},
+	{
+		"id": "323",
+		"name": "Hellcat",
+		"searchName": "hellcat",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/79.jpg"
+	},
+	{
+		"id": "324",
+		"name": "Hellstorm",
+		"searchName": "hellstorm",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/80.jpg"
+	},
+	{
+		"id": "325",
+		"name": "Hercules",
+		"searchName": "hercules",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/78.jpg"
+	},
+	{
+		"id": "326",
+		"name": "Hiro Nakamura",
+		"searchName": "hironakamura",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/947.jpg"
+	},
+	{
+		"id": "327",
+		"name": "Hit-Girl",
+		"searchName": "hitgirl",
+		"publisher": "Icon Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1336.jpg"
+	},
+	{
+		"id": "328",
+		"name": "Hobgoblin",
+		"searchName": "hobgoblin",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/896.jpg"
+	},
+	{
+		"id": "329",
+		"name": "Hollow",
+		"searchName": "hollow",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/931.jpg"
+	},
+	{
+		"id": "330",
+		"name": "Hope Summers",
+		"searchName": "hopesummers",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1351.jpg"
+	},
+	{
+		"id": "331",
+		"name": "Howard the Duck",
+		"searchName": "howardtheduck",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/82.jpg"
+	},
+	{
+		"id": "332",
+		"name": "Hulk",
+		"searchName": "hulk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/83.jpg"
+	},
+	{
+		"id": "333",
+		"name": "Human Torch",
+		"searchName": "humantorch",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/362.jpg"
+	},
+	{
+		"id": "334",
+		"name": "Huntress",
+		"searchName": "huntress",
+		"publisher": "Batgirl III",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/707.jpg"
+	},
+	{
+		"id": "335",
+		"name": "Husk",
+		"searchName": "husk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/84.jpg"
+	},
+	{
+		"id": "336",
+		"name": "Hybrid",
+		"searchName": "hybrid",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10493.jpg"
+	},
+	{
+		"id": "337",
+		"name": "Hydro-Man",
+		"searchName": "hydroman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1451.jpg"
+	},
+	{
+		"id": "338",
+		"name": "Hyperion",
+		"searchName": "hyperion",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1286.jpg"
+	},
+	{
+		"id": "339",
+		"name": "Iceman",
+		"searchName": "iceman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/816.jpg"
+	},
+	{
+		"id": "340",
+		"name": "Impulse",
+		"searchName": "impulse",
+		"publisher": "Flash IV",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/895.jpg"
+	},
+	{
+		"id": "341",
+		"name": "Indiana Jones",
+		"searchName": "indianajones",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10560.jpg"
+	},
+	{
+		"id": "342",
+		"name": "Indigo",
+		"searchName": "indigo",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/708.jpg"
+	},
+	{
+		"id": "343",
+		"name": "Ink",
+		"searchName": "ink",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10337.jpg"
+	},
+	{
+		"id": "344",
+		"name": "Invisible Woman",
+		"searchName": "invisiblewoman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/620.jpg"
+	},
+	{
+		"id": "345",
+		"name": "Iron Fist",
+		"searchName": "ironfist",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1120.jpg"
+	},
+	{
+		"id": "346",
+		"name": "Iron Man",
+		"searchName": "ironman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/85.jpg"
+	},
+	{
+		"id": "347",
+		"name": "Iron Monger",
+		"searchName": "ironmonger",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/886.jpg"
+	},
+	{
+		"id": "348",
+		"name": "Isis",
+		"searchName": "isis",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1164.jpg"
+	},
+	{
+		"id": "349",
+		"name": "Jack Bauer",
+		"searchName": "jackbauer",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1203.jpg"
+	},
+	{
+		"id": "350",
+		"name": "Jack of Hearts",
+		"searchName": "jackofhearts",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/86.jpg"
+	},
+	{
+		"id": "351",
+		"name": "Jack-Jack",
+		"searchName": "jackjack",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/871.jpg"
+	},
+	{
+		"id": "352",
+		"name": "James Bond",
+		"searchName": "jamesbond",
+		"publisher": "Titan Books",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10404.jpg"
+	},
+	{
+		"id": "353",
+		"name": "James T. Kirk",
+		"searchName": "jamestkirk",
+		"publisher": "Star Trek",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10565.jpg"
+	},
+	{
+		"id": "354",
+		"name": "Jar Jar Binks",
+		"searchName": "jarjarbinks",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10563.jpg"
+	},
+	{
+		"id": "355",
+		"name": "Jason Bourne",
+		"searchName": "jasonbourne",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10477.jpg"
+	},
+	{
+		"id": "356",
+		"name": "Jean Grey",
+		"searchName": "jeangrey",
+		"publisher": "Phoenix",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/814.jpg"
+	},
+	{
+		"id": "357",
+		"name": "Jean-Luc Picard",
+		"searchName": "jeanlucpicard",
+		"publisher": "Star Trek",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10567.jpg"
+	},
+	{
+		"id": "358",
+		"name": "Jennifer Kale",
+		"searchName": "jenniferkale",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1321.jpg"
+	},
+	{
+		"id": "359",
+		"name": "Jesse Quick",
+		"searchName": "jessequick",
+		"publisher": "Liberty Belle II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10544.jpg"
+	},
+	{
+		"id": "360",
+		"name": "Jessica Cruz",
+		"searchName": "jessicacruz",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10650.jpg"
+	},
+	{
+		"id": "361",
+		"name": "Jessica Jones",
+		"searchName": "jessicajones",
+		"publisher": "Power Woman",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10403.jpg"
+	},
+	{
+		"id": "362",
+		"name": "Jessica Sanders",
+		"searchName": "jessicasanders",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1029.jpg"
+	},
+	{
+		"id": "363",
+		"name": "Jigsaw",
+		"searchName": "jigsaw",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/887.jpg"
+	},
+	{
+		"id": "364",
+		"name": "Jim Powell",
+		"searchName": "jimpowell",
+		"publisher": "ABC Studios",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1354.jpg"
+	},
+	{
+		"id": "365",
+		"name": "JJ Powell",
+		"searchName": "jjpowell",
+		"publisher": "ABC Studios",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1357.jpg"
+	},
+	{
+		"id": "366",
+		"name": "Johann Krauss",
+		"searchName": "johannkrauss",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1121.jpg"
+	},
+	{
+		"id": "367",
+		"name": "John Constantine",
+		"searchName": "johnconstantine",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/718.jpg"
+	},
+	{
+		"id": "368",
+		"name": "John Stewart",
+		"searchName": "johnstewart",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/873.jpg"
+	},
+	{
+		"id": "369",
+		"name": "John Wraith",
+		"searchName": "johnwraith",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1314.jpg"
+	},
+	{
+		"id": "370",
+		"name": "Joker",
+		"searchName": "joker",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/719.jpg"
+	},
+	{
+		"id": "371",
+		"name": "Jolt",
+		"searchName": "jolt",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1323.jpg"
+	},
+	{
+		"id": "372",
+		"name": "Jubilee",
+		"searchName": "jubilee",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/87.jpg"
+	},
+	{
+		"id": "373",
+		"name": "Judge Dredd",
+		"searchName": "judgedredd",
+		"publisher": "Rebellion",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1163.jpg"
+	},
+	{
+		"id": "374",
+		"name": "Juggernaut",
+		"searchName": "juggernaut",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/826.jpg"
+	},
+	{
+		"id": "375",
+		"name": "Junkpile",
+		"searchName": "junkpile",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10002.jpg"
+	},
+	{
+		"id": "376",
+		"name": "Justice",
+		"searchName": "justice",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/88.jpg"
+	},
+	{
+		"id": "377",
+		"name": "Jyn Erso",
+		"searchName": "jynerso",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10562.jpg"
+	},
+	{
+		"id": "378",
+		"name": "K-2SO",
+		"searchName": "k2so",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10643.jpg"
+	},
+	{
+		"id": "379",
+		"name": "Kang",
+		"searchName": "kang",
+		"publisher": "Iron Lad",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1053.jpg"
+	},
+	{
+		"id": "380",
+		"name": "Kathryn Janeway",
+		"searchName": "kathrynjaneway",
+		"publisher": "Star Trek",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10581.jpg"
+	},
+	{
+		"id": "381",
+		"name": "Katniss Everdeen",
+		"searchName": "katnisseverdeen",
+		"publisher": null,
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10484.jpg"
+	},
+	{
+		"id": "382",
+		"name": "Kevin 11",
+		"searchName": "kevin11",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1408.jpg"
+	},
+	{
+		"id": "383",
+		"name": "Kick-Ass",
+		"searchName": "kickass",
+		"publisher": "Icon Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1158.jpg"
+	},
+	{
+		"id": "384",
+		"name": "Kid Flash",
+		"searchName": "kidflash",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/722.jpg"
+	},
+	{
+		"id": "385",
+		"name": "Kid Flash II",
+		"searchName": "kidflashii",
+		"publisher": "Flash IV",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/894.jpg"
+	},
+	{
+		"id": "386",
+		"name": "Killer Croc",
+		"searchName": "killercroc",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/723.jpg"
+	},
+	{
+		"id": "387",
+		"name": "Killer Frost",
+		"searchName": "killerfrost",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10508.jpg"
+	},
+	{
+		"id": "388",
+		"name": "Kilowog",
+		"searchName": "kilowog",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1428.jpg"
+	},
+	{
+		"id": "389",
+		"name": "King Kong",
+		"searchName": "kingkong",
+		"publisher": null,
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10591.jpg"
+	},
+	{
+		"id": "390",
+		"name": "King Shark",
+		"searchName": "kingshark",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10512.jpg"
+	},
+	{
+		"id": "391",
+		"name": "Kingpin",
+		"searchName": "kingpin",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/623.jpg"
+	},
+	{
+		"id": "392",
+		"name": "Klaw",
+		"searchName": "klaw",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1539.jpg"
+	},
+	{
+		"id": "393",
+		"name": "Kool-Aid Man",
+		"searchName": "koolaidman",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1343.jpg"
+	},
+	{
+		"id": "394",
+		"name": "Kraven II",
+		"searchName": "kravenii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1034.jpg"
+	},
+	{
+		"id": "395",
+		"name": "Kraven the Hunter",
+		"searchName": "kraventhehunter",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1033.jpg"
+	},
+	{
+		"id": "396",
+		"name": "Krypto",
+		"searchName": "krypto",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/725.jpg"
+	},
+	{
+		"id": "397",
+		"name": "Kyle Rayner",
+		"searchName": "kylerayner",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1409.jpg"
+	},
+	{
+		"id": "398",
+		"name": "Kylo Ren",
+		"searchName": "kyloren",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10559.jpg"
+	},
+	{
+		"id": "399",
+		"name": "Lady Bullseye",
+		"searchName": "ladybullseye",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1170.jpg"
+	},
+	{
+		"id": "400",
+		"name": "Lady Deathstrike",
+		"searchName": "ladydeathstrike",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/810.jpg"
+	},
+	{
+		"id": "401",
+		"name": "Leader",
+		"searchName": "leader",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/885.jpg"
+	},
+	{
+		"id": "402",
+		"name": "Leech",
+		"searchName": "leech",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/834.jpg"
+	},
+	{
+		"id": "403",
+		"name": "Legion",
+		"searchName": "legion",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10651.jpg"
+	},
+	{
+		"id": "404",
+		"name": "Leonardo",
+		"searchName": "leonardo",
+		"publisher": "IDW Publishing",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10327.jpg"
+	},
+	{
+		"id": "405",
+		"name": "Lex Luthor",
+		"searchName": "lexluthor",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/727.jpg"
+	},
+	{
+		"id": "406",
+		"name": "Light Lass",
+		"searchName": "lightlass",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1178.jpg"
+	},
+	{
+		"id": "407",
+		"name": "Lightning Lad",
+		"searchName": "lightninglad",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1177.jpg"
+	},
+	{
+		"id": "408",
+		"name": "Lightning Lord",
+		"searchName": "lightninglord",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1179.jpg"
+	},
+	{
+		"id": "409",
+		"name": "Living Brain",
+		"searchName": "livingbrain",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1037.jpg"
+	},
+	{
+		"id": "410",
+		"name": "Living Tribunal",
+		"searchName": "livingtribunal",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10523.jpg"
+	},
+	{
+		"id": "411",
+		"name": "Liz Sherman",
+		"searchName": "lizsherman",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/868.jpg"
+	},
+	{
+		"id": "412",
+		"name": "Lizard",
+		"searchName": "lizard",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/11.jpg"
+	},
+	{
+		"id": "413",
+		"name": "Lobo",
+		"searchName": "lobo",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1127.jpg"
+	},
+	{
+		"id": "414",
+		"name": "Loki",
+		"searchName": "loki",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/928.jpg"
+	},
+	{
+		"id": "415",
+		"name": "Longshot",
+		"searchName": "longshot",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1531.jpg"
+	},
+	{
+		"id": "416",
+		"name": "Luke Cage",
+		"searchName": "lukecage",
+		"publisher": "Power Man",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/269.jpg"
+	},
+	{
+		"id": "417",
+		"name": "Luke Campbell",
+		"searchName": "lukecampbell",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1311.jpg"
+	},
+	{
+		"id": "418",
+		"name": "Luke Skywalker",
+		"searchName": "lukeskywalker",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10447.jpg"
+	},
+	{
+		"id": "419",
+		"name": "Luna",
+		"searchName": "luna",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/933.jpg"
+	},
+	{
+		"id": "420",
+		"name": "Lyja",
+		"searchName": "lyja",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1017.jpg"
+	},
+	{
+		"id": "421",
+		"name": "Mach-IV",
+		"searchName": "machiv",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/370.jpg"
+	},
+	{
+		"id": "422",
+		"name": "Machine Man",
+		"searchName": "machineman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/90.jpg"
+	},
+	{
+		"id": "423",
+		"name": "Magneto",
+		"searchName": "magneto",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/12.jpg"
+	},
+	{
+		"id": "424",
+		"name": "Magog",
+		"searchName": "magog",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1324.jpg"
+	},
+	{
+		"id": "425",
+		"name": "Magus",
+		"searchName": "magus",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1297.jpg"
+	},
+	{
+		"id": "426",
+		"name": "Man of Miracles",
+		"searchName": "manofmiracles",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10889.jpg"
+	},
+	{
+		"id": "427",
+		"name": "Man-Bat",
+		"searchName": "manbat",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/731.jpg"
+	},
+	{
+		"id": "428",
+		"name": "Man-Thing",
+		"searchName": "manthing",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/382.jpg"
+	},
+	{
+		"id": "429",
+		"name": "Man-Wolf",
+		"searchName": "manwolf",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/91.jpg"
+	},
+	{
+		"id": "430",
+		"name": "Mandarin",
+		"searchName": "mandarin",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1175.jpg"
+	},
+	{
+		"id": "431",
+		"name": "Mantis",
+		"searchName": "mantis",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/384.jpg"
+	},
+	{
+		"id": "432",
+		"name": "Martian Manhunter",
+		"searchName": "martianmanhunter",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/733.jpg"
+	},
+	{
+		"id": "433",
+		"name": "Marvel Girl",
+		"searchName": "marvelgirl",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/94.jpg"
+	},
+	{
+		"id": "434",
+		"name": "Master Brood",
+		"searchName": "masterbrood",
+		"publisher": "Team Epic TV",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/958.jpg"
+	},
+	{
+		"id": "435",
+		"name": "Master Chief",
+		"searchName": "masterchief",
+		"publisher": "Microsoft",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1110.jpg"
+	},
+	{
+		"id": "436",
+		"name": "Match",
+		"searchName": "match",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1459.jpg"
+	},
+	{
+		"id": "437",
+		"name": "Matt Parkman",
+		"searchName": "mattparkman",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/948.jpg"
+	},
+	{
+		"id": "438",
+		"name": "Maverick",
+		"searchName": "maverick",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/257.jpg"
+	},
+	{
+		"id": "439",
+		"name": "Maxima",
+		"searchName": "maxima",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1168.jpg"
+	},
+	{
+		"id": "440",
+		"name": "Maya Herrera",
+		"searchName": "mayaherrera",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/944.jpg"
+	},
+	{
+		"id": "441",
+		"name": "Medusa",
+		"searchName": "medusa",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/96.jpg"
+	},
+	{
+		"id": "442",
+		"name": "Meltdown",
+		"searchName": "meltdown",
+		"publisher": "Boom-Boom",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/258.jpg"
+	},
+	{
+		"id": "443",
+		"name": "Mephisto",
+		"searchName": "mephisto",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1322.jpg"
+	},
+	{
+		"id": "444",
+		"name": "Mera",
+		"searchName": "mera",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1388.jpg"
+	},
+	{
+		"id": "445",
+		"name": "Metallo",
+		"searchName": "metallo",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/737.jpg"
+	},
+	{
+		"id": "446",
+		"name": "Metamorpho",
+		"searchName": "metamorpho",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/738.jpg"
+	},
+	{
+		"id": "447",
+		"name": "Meteorite",
+		"searchName": "meteorite",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1333.jpg"
+	},
+	{
+		"id": "448",
+		"name": "Metron",
+		"searchName": "metron",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/841.jpg"
+	},
+	{
+		"id": "449",
+		"name": "Micah Sanders",
+		"searchName": "micahsanders",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/951.jpg"
+	},
+	{
+		"id": "450",
+		"name": "Michelangelo",
+		"searchName": "michelangelo",
+		"publisher": "IDW Publishing",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10329.jpg"
+	},
+	{
+		"id": "451",
+		"name": "Micro Lad",
+		"searchName": "microlad",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1181.jpg"
+	},
+	{
+		"id": "452",
+		"name": "Mimic",
+		"searchName": "mimic",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/97.jpg"
+	},
+	{
+		"id": "453",
+		"name": "Minna Murray",
+		"searchName": "minnamurray",
+		"publisher": "Wildstorm",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/881.jpg"
+	},
+	{
+		"id": "454",
+		"name": "Misfit",
+		"searchName": "misfit",
+		"publisher": "Batgirl V",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1114.jpg"
+	},
+	{
+		"id": "455",
+		"name": "Miss Martian",
+		"searchName": "missmartian",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1394.jpg"
+	},
+	{
+		"id": "456",
+		"name": "Mister Fantastic",
+		"searchName": "misterfantastic",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/408.jpg"
+	},
+	{
+		"id": "457",
+		"name": "Mister Freeze",
+		"searchName": "misterfreeze",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/742.jpg"
+	},
+	{
+		"id": "458",
+		"name": "Mister Knife",
+		"searchName": "misterknife",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10633.jpg"
+	},
+	{
+		"id": "459",
+		"name": "Mister Mxyzptlk",
+		"searchName": "mistermxyzptlk",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/744.jpg"
+	},
+	{
+		"id": "460",
+		"name": "Mister Sinister",
+		"searchName": "mistersinister",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/856.jpg"
+	},
+	{
+		"id": "461",
+		"name": "Mister Zsasz",
+		"searchName": "misterzsasz",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1486.jpg"
+	},
+	{
+		"id": "462",
+		"name": "Mockingbird",
+		"searchName": "mockingbird",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1328.jpg"
+	},
+	{
+		"id": "463",
+		"name": "MODOK",
+		"searchName": "modok",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10438.jpg"
+	},
+	{
+		"id": "464",
+		"name": "Mogo",
+		"searchName": "mogo",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1432.jpg"
+	},
+	{
+		"id": "465",
+		"name": "Mohinder Suresh",
+		"searchName": "mohindersuresh",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1313.jpg"
+	},
+	{
+		"id": "466",
+		"name": "Moloch",
+		"searchName": "moloch",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1061.jpg"
+	},
+	{
+		"id": "467",
+		"name": "Molten Man",
+		"searchName": "moltenman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/411.jpg"
+	},
+	{
+		"id": "468",
+		"name": "Monarch",
+		"searchName": "monarch",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1006.jpg"
+	},
+	{
+		"id": "469",
+		"name": "Monica Dawson",
+		"searchName": "monicadawson",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/942.jpg"
+	},
+	{
+		"id": "470",
+		"name": "Moon Knight",
+		"searchName": "moonknight",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/415.jpg"
+	},
+	{
+		"id": "471",
+		"name": "Moonstone",
+		"searchName": "moonstone",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/100.jpg"
+	},
+	{
+		"id": "472",
+		"name": "Morlun",
+		"searchName": "morlun",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1171.jpg"
+	},
+	{
+		"id": "473",
+		"name": "Morph",
+		"searchName": "morph",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/102.jpg"
+	},
+	{
+		"id": "474",
+		"name": "Moses Magnum",
+		"searchName": "mosesmagnum",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1020.jpg"
+	},
+	{
+		"id": "475",
+		"name": "Mr Immortal",
+		"searchName": "mrimmortal",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10794.jpg"
+	},
+	{
+		"id": "476",
+		"name": "Mr Incredible",
+		"searchName": "mrincredible",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/869.jpg"
+	},
+	{
+		"id": "477",
+		"name": "Ms Marvel II",
+		"searchName": "msmarvelii",
+		"publisher": "She-Thing",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/897.jpg"
+	},
+	{
+		"id": "478",
+		"name": "Multiple Man",
+		"searchName": "multipleman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/104.jpg"
+	},
+	{
+		"id": "479",
+		"name": "Mysterio",
+		"searchName": "mysterio",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1039.jpg"
+	},
+	{
+		"id": "480",
+		"name": "Mystique",
+		"searchName": "mystique",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/817.jpg"
+	},
+	{
+		"id": "481",
+		"name": "Namor",
+		"searchName": "namor",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/137.jpg"
+	},
+	{
+		"id": "482",
+		"name": "Namor",
+		"searchName": "namor",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/105.jpg"
+	},
+	{
+		"id": "483",
+		"name": "Namora",
+		"searchName": "namora",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1364.jpg"
+	},
+	{
+		"id": "484",
+		"name": "Namorita",
+		"searchName": "namorita",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/106.jpg"
+	},
+	{
+		"id": "485",
+		"name": "Naruto Uzumaki",
+		"searchName": "narutouzumaki",
+		"publisher": "Shueisha",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1540.jpg"
+	},
+	{
+		"id": "486",
+		"name": "Nathan Petrelli",
+		"searchName": "nathanpetrelli",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/949.jpg"
+	},
+	{
+		"id": "487",
+		"name": "Nebula",
+		"searchName": "nebula",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10632.jpg"
+	},
+	{
+		"id": "488",
+		"name": "Negasonic Teenage Warhead",
+		"searchName": "negasonicteenagewarhead",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10556.jpg"
+	},
+	{
+		"id": "489",
+		"name": "Nick Fury",
+		"searchName": "nickfury",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/326.jpg"
+	},
+	{
+		"id": "490",
+		"name": "Nightcrawler",
+		"searchName": "nightcrawler",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/107.jpg"
+	},
+	{
+		"id": "491",
+		"name": "Nightwing",
+		"searchName": "nightwing",
+		"publisher": "Batman II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/851.jpg"
+	},
+	{
+		"id": "492",
+		"name": "Niki Sanders",
+		"searchName": "nikisanders",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/952.jpg"
+	},
+	{
+		"id": "493",
+		"name": "Nina Theroux",
+		"searchName": "ninatheroux",
+		"publisher": "SyFy",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1529.jpg"
+	},
+	{
+		"id": "494",
+		"name": "Nite Owl II",
+		"searchName": "niteowlii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1059.jpg"
+	},
+	{
+		"id": "495",
+		"name": "Northstar",
+		"searchName": "northstar",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1287.jpg"
+	},
+	{
+		"id": "496",
+		"name": "Nova",
+		"searchName": "nova",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/109.jpg"
+	},
+	{
+		"id": "497",
+		"name": "Nova",
+		"searchName": "nova",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10313.jpg"
+	},
+	{
+		"id": "498",
+		"name": "Odin",
+		"searchName": "odin",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10388.jpg"
+	},
+	{
+		"id": "499",
+		"name": "Offspring",
+		"searchName": "offspring",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1298.jpg"
+	},
+	{
+		"id": "500",
+		"name": "Omega Red",
+		"searchName": "omegared",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/208.jpg"
+	},
+	{
+		"id": "501",
+		"name": "Omniscient",
+		"searchName": "omniscient",
+		"publisher": "Team Epic TV",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1003.jpg"
+	},
+	{
+		"id": "502",
+		"name": "One Punch Man",
+		"searchName": "onepunchman",
+		"publisher": "Shueisha",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10522.jpg"
+	},
+	{
+		"id": "503",
+		"name": "One-Above-All",
+		"searchName": "oneaboveall",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10374.jpg"
+	},
+	{
+		"id": "504",
+		"name": "Onslaught",
+		"searchName": "onslaught",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/13.jpg"
+	},
+	{
+		"id": "505",
+		"name": "Oracle",
+		"searchName": "oracle",
+		"publisher": "Batgirl",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/749.jpg"
+	},
+	{
+		"id": "506",
+		"name": "Osiris",
+		"searchName": "osiris",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1165.jpg"
+	},
+	{
+		"id": "507",
+		"name": "Overtkill",
+		"searchName": "overtkill",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/866.jpg"
+	},
+	{
+		"id": "508",
+		"name": "Ozymandias",
+		"searchName": "ozymandias",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1063.jpg"
+	},
+	{
+		"id": "509",
+		"name": "Parademon",
+		"searchName": "parademon",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10806.jpg"
+	},
+	{
+		"id": "510",
+		"name": "Paul Blart",
+		"searchName": "paulblart",
+		"publisher": "Sony Pictures",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10479.jpg"
+	},
+	{
+		"id": "511",
+		"name": "Penance",
+		"searchName": "penance",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/929.jpg"
+	},
+	{
+		"id": "512",
+		"name": "Penance I",
+		"searchName": "penancei",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/930.jpg"
+	},
+	{
+		"id": "513",
+		"name": "Penance II",
+		"searchName": "penanceii",
+		"publisher": "Speedball",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/900.jpg"
+	},
+	{
+		"id": "514",
+		"name": "Penguin",
+		"searchName": "penguin",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/753.jpg"
+	},
+	{
+		"id": "515",
+		"name": "Phantom",
+		"searchName": "phantom",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/889.jpg"
+	},
+	{
+		"id": "516",
+		"name": "Phantom Girl",
+		"searchName": "phantomgirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1184.jpg"
+	},
+	{
+		"id": "517",
+		"name": "Phoenix",
+		"searchName": "phoenix",
+		"publisher": "Jean Grey",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/828.jpg"
+	},
+	{
+		"id": "518",
+		"name": "Plantman",
+		"searchName": "plantman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10487.jpg"
+	},
+	{
+		"id": "519",
+		"name": "Plastic Lad",
+		"searchName": "plasticlad",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1299.jpg"
+	},
+	{
+		"id": "520",
+		"name": "Plastic Man",
+		"searchName": "plasticman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/756.jpg"
+	},
+	{
+		"id": "521",
+		"name": "Plastique",
+		"searchName": "plastique",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1176.jpg"
+	},
+	{
+		"id": "522",
+		"name": "Poison Ivy",
+		"searchName": "poisonivy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/757.jpg"
+	},
+	{
+		"id": "523",
+		"name": "Polaris",
+		"searchName": "polaris",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1046.jpg"
+	},
+	{
+		"id": "524",
+		"name": "Power Girl",
+		"searchName": "powergirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/758.jpg"
+	},
+	{
+		"id": "525",
+		"name": "Power Man",
+		"searchName": "powerman",
+		"publisher": "Luke Cage",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1016.jpg"
+	},
+	{
+		"id": "526",
+		"name": "Predator",
+		"searchName": "predator",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10448.jpg"
+	},
+	{
+		"id": "527",
+		"name": "Professor X",
+		"searchName": "professorx",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/113.jpg"
+	},
+	{
+		"id": "528",
+		"name": "Professor Zoom",
+		"searchName": "professorzoom",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/766.jpg"
+	},
+	{
+		"id": "529",
+		"name": "Psylocke",
+		"searchName": "psylocke",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/114.jpg"
+	},
+	{
+		"id": "530",
+		"name": "Punisher",
+		"searchName": "punisher",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/112.jpg"
+	},
+	{
+		"id": "531",
+		"name": "Purple Man",
+		"searchName": "purpleman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10451.jpg"
+	},
+	{
+		"id": "532",
+		"name": "Pyro",
+		"searchName": "pyro",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/853.jpg"
+	},
+	{
+		"id": "533",
+		"name": "Q",
+		"searchName": "q",
+		"publisher": "Star Trek",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10578.jpg"
+	},
+	{
+		"id": "534",
+		"name": "Quantum",
+		"searchName": "quantum",
+		"publisher": "HarperCollins",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1157.jpg"
+	},
+	{
+		"id": "535",
+		"name": "Question",
+		"searchName": "question",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/760.jpg"
+	},
+	{
+		"id": "536",
+		"name": "Quicksilver",
+		"searchName": "quicksilver",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/115.jpg"
+	},
+	{
+		"id": "537",
+		"name": "Quill",
+		"searchName": "quill",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/830.jpg"
+	},
+	{
+		"id": "538",
+		"name": "Ra's Al Ghul",
+		"searchName": "rasalghul",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/761.jpg"
+	},
+	{
+		"id": "539",
+		"name": "Rachel Pirzad",
+		"searchName": "rachelpirzad",
+		"publisher": "SyFy",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1530.jpg"
+	},
+	{
+		"id": "540",
+		"name": "Rambo",
+		"searchName": "rambo",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10475.jpg"
+	},
+	{
+		"id": "541",
+		"name": "Raphael",
+		"searchName": "raphael",
+		"publisher": "IDW Publishing",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10328.jpg"
+	},
+	{
+		"id": "542",
+		"name": "Raven",
+		"searchName": "raven",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/764.jpg"
+	},
+	{
+		"id": "543",
+		"name": "Ray",
+		"searchName": "ray",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10204.jpg"
+	},
+	{
+		"id": "544",
+		"name": "Razor-Fist II",
+		"searchName": "razorfistii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/935.jpg"
+	},
+	{
+		"id": "545",
+		"name": "Red Arrow",
+		"searchName": "redarrow",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1013.jpg"
+	},
+	{
+		"id": "546",
+		"name": "Red Hood",
+		"searchName": "redhood",
+		"publisher": "Robin II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/932.jpg"
+	},
+	{
+		"id": "547",
+		"name": "Red Hulk",
+		"searchName": "redhulk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1342.jpg"
+	},
+	{
+		"id": "548",
+		"name": "Red Mist",
+		"searchName": "redmist",
+		"publisher": "Icon Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1337.jpg"
+	},
+	{
+		"id": "549",
+		"name": "Red Robin",
+		"searchName": "redrobin",
+		"publisher": "Robin III",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10009.jpg"
+	},
+	{
+		"id": "550",
+		"name": "Red Skull",
+		"searchName": "redskull",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1392.jpg"
+	},
+	{
+		"id": "551",
+		"name": "Red Tornado",
+		"searchName": "redtornado",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1149.jpg"
+	},
+	{
+		"id": "552",
+		"name": "Redeemer II",
+		"searchName": "redeemerii",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1081.jpg"
+	},
+	{
+		"id": "553",
+		"name": "Redeemer III",
+		"searchName": "redeemeriii",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1092.jpg"
+	},
+	{
+		"id": "554",
+		"name": "Renata Soliz",
+		"searchName": "renatasoliz",
+		"publisher": "HarperCollins",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1151.jpg"
+	},
+	{
+		"id": "555",
+		"name": "Rey",
+		"searchName": "rey",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10561.jpg"
+	},
+	{
+		"id": "556",
+		"name": "Rhino",
+		"searchName": "rhino",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/15.jpg"
+	},
+	{
+		"id": "557",
+		"name": "Rick Flag",
+		"searchName": "rickflag",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1352.jpg"
+	},
+	{
+		"id": "558",
+		"name": "Riddler",
+		"searchName": "riddler",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/768.jpg"
+	},
+	{
+		"id": "559",
+		"name": "Rip Hunter",
+		"searchName": "riphunter",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10543.jpg"
+	},
+	{
+		"id": "560",
+		"name": "Ripcord",
+		"searchName": "ripcord",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1291.jpg"
+	},
+	{
+		"id": "561",
+		"name": "Robin",
+		"searchName": "robin",
+		"publisher": "Batman II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/850.jpg"
+	},
+	{
+		"id": "562",
+		"name": "Robin II",
+		"searchName": "robinii",
+		"publisher": "Red Hood",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/849.jpg"
+	},
+	{
+		"id": "563",
+		"name": "Robin III",
+		"searchName": "robiniii",
+		"publisher": "Red Robin",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/769.jpg"
+	},
+	{
+		"id": "564",
+		"name": "Robin V",
+		"searchName": "robinv",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1473.jpg"
+	},
+	{
+		"id": "565",
+		"name": "Robin VI",
+		"searchName": "robinvi",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10394.jpg"
+	},
+	{
+		"id": "566",
+		"name": "Rocket Raccoon",
+		"searchName": "rocketraccoon",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10010.jpg"
+	},
+	{
+		"id": "567",
+		"name": "Rogue",
+		"searchName": "rogue",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/831.jpg"
+	},
+	{
+		"id": "568",
+		"name": "Ronin",
+		"searchName": "ronin",
+		"publisher": "Goliath",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1202.jpg"
+	},
+	{
+		"id": "569",
+		"name": "Rorschach",
+		"searchName": "rorschach",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/771.jpg"
+	},
+	{
+		"id": "570",
+		"name": "Sabretooth",
+		"searchName": "sabretooth",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/17.jpg"
+	},
+	{
+		"id": "571",
+		"name": "Sage",
+		"searchName": "sage",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/117.jpg"
+	},
+	{
+		"id": "572",
+		"name": "Sandman",
+		"searchName": "sandman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/621.jpg"
+	},
+	{
+		"id": "573",
+		"name": "Sasquatch",
+		"searchName": "sasquatch",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/863.jpg"
+	},
+	{
+		"id": "574",
+		"name": "Sauron",
+		"searchName": "sauron",
+		"publisher": "J. R. R. Tolkien",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10849.jpg"
+	},
+	{
+		"id": "575",
+		"name": "Savage Dragon",
+		"searchName": "savagedragon",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1117.jpg"
+	},
+	{
+		"id": "576",
+		"name": "Scarecrow",
+		"searchName": "scarecrow",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/819.jpg"
+	},
+	{
+		"id": "577",
+		"name": "Scarlet Spider",
+		"searchName": "scarletspider",
+		"publisher": "Spider-Carnage",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/174.jpg"
+	},
+	{
+		"id": "578",
+		"name": "Scarlet Spider II",
+		"searchName": "scarletspiderii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1536.jpg"
+	},
+	{
+		"id": "579",
+		"name": "Scarlet Witch",
+		"searchName": "scarletwitch",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/444.jpg"
+	},
+	{
+		"id": "580",
+		"name": "Scorpia",
+		"searchName": "scorpia",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1123.jpg"
+	},
+	{
+		"id": "581",
+		"name": "Scorpion",
+		"searchName": "scorpion",
+		"publisher": "Venom III",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1041.jpg"
+	},
+	{
+		"id": "582",
+		"name": "Sebastian Shaw",
+		"searchName": "sebastianshaw",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1482.jpg"
+	},
+	{
+		"id": "583",
+		"name": "Sentry",
+		"searchName": "sentry",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/447.jpg"
+	},
+	{
+		"id": "584",
+		"name": "Shadow King",
+		"searchName": "shadowking",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/121.jpg"
+	},
+	{
+		"id": "585",
+		"name": "Shadow Lass",
+		"searchName": "shadowlass",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1195.jpg"
+	},
+	{
+		"id": "586",
+		"name": "Shadowcat",
+		"searchName": "shadowcat",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/122.jpg"
+	},
+	{
+		"id": "587",
+		"name": "Shang-Chi",
+		"searchName": "shangchi",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/454.jpg"
+	},
+	{
+		"id": "588",
+		"name": "Shatterstar",
+		"searchName": "shatterstar",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/124.jpg"
+	},
+	{
+		"id": "589",
+		"name": "She-Hulk",
+		"searchName": "shehulk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/125.jpg"
+	},
+	{
+		"id": "590",
+		"name": "She-Thing",
+		"searchName": "shething",
+		"publisher": "Ms Marvel II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/461.jpg"
+	},
+	{
+		"id": "591",
+		"name": "Shocker",
+		"searchName": "shocker",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/19.jpg"
+	},
+	{
+		"id": "592",
+		"name": "Shriek",
+		"searchName": "shriek",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1319.jpg"
+	},
+	{
+		"id": "593",
+		"name": "Shrinking Violet",
+		"searchName": "shrinkingviolet",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1188.jpg"
+	},
+	{
+		"id": "594",
+		"name": "Sif",
+		"searchName": "sif",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1533.jpg"
+	},
+	{
+		"id": "595",
+		"name": "Silk",
+		"searchName": "silk",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10495.jpg"
+	},
+	{
+		"id": "596",
+		"name": "Silk Spectre",
+		"searchName": "silkspectre",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1057.jpg"
+	},
+	{
+		"id": "597",
+		"name": "Silk Spectre II",
+		"searchName": "silkspectreii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1058.jpg"
+	},
+	{
+		"id": "598",
+		"name": "Silver Surfer",
+		"searchName": "silversurfer",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/127.jpg"
+	},
+	{
+		"id": "599",
+		"name": "Silverclaw",
+		"searchName": "silverclaw",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1019.jpg"
+	},
+	{
+		"id": "600",
+		"name": "Simon Baz",
+		"searchName": "simonbaz",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10649.jpg"
+	},
+	{
+		"id": "601",
+		"name": "Sinestro",
+		"searchName": "sinestro",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/781.jpg"
+	},
+	{
+		"id": "602",
+		"name": "Siren",
+		"searchName": "siren",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1387.jpg"
+	},
+	{
+		"id": "603",
+		"name": "Siren II",
+		"searchName": "sirenii",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1386.jpg"
+	},
+	{
+		"id": "604",
+		"name": "Siryn",
+		"searchName": "siryn",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/833.jpg"
+	},
+	{
+		"id": "605",
+		"name": "Skaar",
+		"searchName": "skaar",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1341.jpg"
+	},
+	{
+		"id": "606",
+		"name": "Snake-Eyes",
+		"searchName": "snakeeyes",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10437.jpg"
+	},
+	{
+		"id": "607",
+		"name": "Snowbird",
+		"searchName": "snowbird",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/130.jpg"
+	},
+	{
+		"id": "608",
+		"name": "Sobek",
+		"searchName": "sobek",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1166.jpg"
+	},
+	{
+		"id": "609",
+		"name": "Solomon Grundy",
+		"searchName": "solomongrundy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/782.jpg"
+	},
+	{
+		"id": "610",
+		"name": "Songbird",
+		"searchName": "songbird",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/131.jpg"
+	},
+	{
+		"id": "611",
+		"name": "Space Ghost",
+		"searchName": "spaceghost",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1505.jpg"
+	},
+	{
+		"id": "612",
+		"name": "Spawn",
+		"searchName": "spawn",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/842.jpg"
+	},
+	{
+		"id": "613",
+		"name": "Spectre",
+		"searchName": "spectre",
+		"publisher": "Aztar",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/784.jpg"
+	},
+	{
+		"id": "614",
+		"name": "Speedball",
+		"searchName": "speedball",
+		"publisher": "Penance II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/132.jpg"
+	},
+	{
+		"id": "615",
+		"name": "Speedy",
+		"searchName": "speedy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10558.jpg"
+	},
+	{
+		"id": "616",
+		"name": "Speedy",
+		"searchName": "speedy",
+		"publisher": "Arsenal",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1015.jpg"
+	},
+	{
+		"id": "617",
+		"name": "Spider-Carnage",
+		"searchName": "spidercarnage",
+		"publisher": "Scarlet Spider",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/957.jpg"
+	},
+	{
+		"id": "618",
+		"name": "Spider-Girl",
+		"searchName": "spidergirl",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/480.jpg"
+	},
+	{
+		"id": "619",
+		"name": "Spider-Gwen",
+		"searchName": "spidergwen",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10507.jpg"
+	},
+	{
+		"id": "620",
+		"name": "Spider-Man",
+		"searchName": "spiderman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/133.jpg"
+	},
+	{
+		"id": "621",
+		"name": "Spider-Man",
+		"searchName": "spiderman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/479.jpg"
+	},
+	{
+		"id": "622",
+		"name": "Spider-Man",
+		"searchName": "spiderman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10647.jpg"
+	},
+	{
+		"id": "623",
+		"name": "Spider-Woman",
+		"searchName": "spiderwoman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/481.jpg"
+	},
+	{
+		"id": "624",
+		"name": "Spider-Woman II",
+		"searchName": "spiderwomanii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/483.jpg"
+	},
+	{
+		"id": "625",
+		"name": "Spider-Woman III",
+		"searchName": "spiderwomaniii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/482.jpg"
+	},
+	{
+		"id": "626",
+		"name": "Spider-Woman IV",
+		"searchName": "spiderwomaniv",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/883.jpg"
+	},
+	{
+		"id": "627",
+		"name": "Spock",
+		"searchName": "spock",
+		"publisher": "Star Trek",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10566.jpg"
+	},
+	{
+		"id": "628",
+		"name": "Spyke",
+		"searchName": "spyke",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1455.jpg"
+	},
+	{
+		"id": "629",
+		"name": "Stacy X",
+		"searchName": "stacyx",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/485.jpg"
+	},
+	{
+		"id": "630",
+		"name": "Star-Lord",
+		"searchName": "starlord",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10015.jpg"
+	},
+	{
+		"id": "631",
+		"name": "Stardust",
+		"searchName": "stardust",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1052.jpg"
+	},
+	{
+		"id": "632",
+		"name": "Starfire",
+		"searchName": "starfire",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/786.jpg"
+	},
+	{
+		"id": "633",
+		"name": "Stargirl",
+		"searchName": "stargirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1326.jpg"
+	},
+	{
+		"id": "634",
+		"name": "Static",
+		"searchName": "static",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1471.jpg"
+	},
+	{
+		"id": "635",
+		"name": "Steel",
+		"searchName": "steel",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1383.jpg"
+	},
+	{
+		"id": "636",
+		"name": "Stephanie Powell",
+		"searchName": "stephaniepowell",
+		"publisher": "ABC Studios",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1355.jpg"
+	},
+	{
+		"id": "637",
+		"name": "Steppenwolf",
+		"searchName": "steppenwolf",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10653.jpg"
+	},
+	{
+		"id": "638",
+		"name": "Storm",
+		"searchName": "storm",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/135.jpg"
+	},
+	{
+		"id": "639",
+		"name": "Stormtrooper",
+		"searchName": "stormtrooper",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10539.jpg"
+	},
+	{
+		"id": "640",
+		"name": "Sunspot",
+		"searchName": "sunspot",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/138.jpg"
+	},
+	{
+		"id": "641",
+		"name": "Superboy",
+		"searchName": "superboy",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/789.jpg"
+	},
+	{
+		"id": "642",
+		"name": "Superboy-Prime",
+		"searchName": "superboyprime",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1535.jpg"
+	},
+	{
+		"id": "643",
+		"name": "Supergirl",
+		"searchName": "supergirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/790.jpg"
+	},
+	{
+		"id": "644",
+		"name": "Superman",
+		"searchName": "superman",
+		"publisher": "Superman Prime One-Million",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/791.jpg"
+	},
+	{
+		"id": "645",
+		"name": "Swamp Thing",
+		"searchName": "swampthing",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/792.jpg"
+	},
+	{
+		"id": "646",
+		"name": "Swarm",
+		"searchName": "swarm",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10428.jpg"
+	},
+	{
+		"id": "647",
+		"name": "Sylar",
+		"searchName": "sylar",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/953.jpg"
+	},
+	{
+		"id": "648",
+		"name": "Synch",
+		"searchName": "synch",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/175.jpg"
+	},
+	{
+		"id": "649",
+		"name": "T-1000",
+		"searchName": "t1000",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10411.jpg"
+	},
+	{
+		"id": "650",
+		"name": "T-800",
+		"searchName": "t800",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10409.jpg"
+	},
+	{
+		"id": "651",
+		"name": "T-850",
+		"searchName": "t850",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10410.jpg"
+	},
+	{
+		"id": "652",
+		"name": "T-X",
+		"searchName": "tx",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10412.jpg"
+	},
+	{
+		"id": "653",
+		"name": "Taskmaster",
+		"searchName": "taskmaster",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/21.jpg"
+	},
+	{
+		"id": "654",
+		"name": "Tempest",
+		"searchName": "tempest",
+		"publisher": "Angel Salvadore",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1407.jpg"
+	},
+	{
+		"id": "655",
+		"name": "Thanos",
+		"searchName": "thanos",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1305.jpg"
+	},
+	{
+		"id": "656",
+		"name": "The Cape",
+		"searchName": "thecape",
+		"publisher": "null",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1375.jpg"
+	},
+	{
+		"id": "657",
+		"name": "The Comedian",
+		"searchName": "thecomedian",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1062.jpg"
+	},
+	{
+		"id": "658",
+		"name": "Thing",
+		"searchName": "thing",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/139.jpg"
+	},
+	{
+		"id": "659",
+		"name": "Thor",
+		"searchName": "thor",
+		"publisher": "Rune King Thor",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/140.jpg"
+	},
+	{
+		"id": "660",
+		"name": "Thor Girl",
+		"searchName": "thorgirl",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1296.jpg"
+	},
+	{
+		"id": "661",
+		"name": "Thunderbird",
+		"searchName": "thunderbird",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/611.jpg"
+	},
+	{
+		"id": "662",
+		"name": "Thunderbird II",
+		"searchName": "thunderbirdii",
+		"publisher": "Warpath",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/927.jpg"
+	},
+	{
+		"id": "663",
+		"name": "Thunderbird III",
+		"searchName": "thunderbirdiii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/141.jpg"
+	},
+	{
+		"id": "664",
+		"name": "Thunderstrike",
+		"searchName": "thunderstrike",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/177.jpg"
+	},
+	{
+		"id": "665",
+		"name": "Thundra",
+		"searchName": "thundra",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/508.jpg"
+	},
+	{
+		"id": "666",
+		"name": "Tiger Shark",
+		"searchName": "tigershark",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10047.jpg"
+	},
+	{
+		"id": "667",
+		"name": "Tigra",
+		"searchName": "tigra",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/42.jpg"
+	},
+	{
+		"id": "668",
+		"name": "Tinkerer",
+		"searchName": "tinkerer",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1036.jpg"
+	},
+	{
+		"id": "669",
+		"name": "Titan",
+		"searchName": "titan",
+		"publisher": "HarperCollins",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1154.jpg"
+	},
+	{
+		"id": "670",
+		"name": "Toad",
+		"searchName": "toad",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1125.jpg"
+	},
+	{
+		"id": "671",
+		"name": "Toxin",
+		"searchName": "toxin",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/848.jpg"
+	},
+	{
+		"id": "672",
+		"name": "Toxin",
+		"searchName": "toxin",
+		"publisher": "Anti-Venom",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10494.jpg"
+	},
+	{
+		"id": "673",
+		"name": "Tracy Strauss",
+		"searchName": "tracystrauss",
+		"publisher": "NBC - Heroes",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1312.jpg"
+	},
+	{
+		"id": "674",
+		"name": "Trickster",
+		"searchName": "trickster",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1468.jpg"
+	},
+	{
+		"id": "675",
+		"name": "Trigon",
+		"searchName": "trigon",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10703.jpg"
+	},
+	{
+		"id": "676",
+		"name": "Triplicate Girl",
+		"searchName": "triplicategirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1185.jpg"
+	},
+	{
+		"id": "677",
+		"name": "Triton",
+		"searchName": "triton",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/513.jpg"
+	},
+	{
+		"id": "678",
+		"name": "Two-Face",
+		"searchName": "twoface",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/802.jpg"
+	},
+	{
+		"id": "679",
+		"name": "Ultragirl",
+		"searchName": "ultragirl",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1295.jpg"
+	},
+	{
+		"id": "680",
+		"name": "Ultron",
+		"searchName": "ultron",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1339.jpg"
+	},
+	{
+		"id": "681",
+		"name": "Utgard-Loki",
+		"searchName": "utgardloki",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1484.jpg"
+	},
+	{
+		"id": "682",
+		"name": "Vagabond",
+		"searchName": "vagabond",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/145.jpg"
+	},
+	{
+		"id": "683",
+		"name": "Valerie Hart",
+		"searchName": "valeriehart",
+		"publisher": "Team Epic TV",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1004.jpg"
+	},
+	{
+		"id": "684",
+		"name": "Valkyrie",
+		"searchName": "valkyrie",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/147.jpg"
+	},
+	{
+		"id": "685",
+		"name": "Vanisher",
+		"searchName": "vanisher",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1105.jpg"
+	},
+	{
+		"id": "686",
+		"name": "Vegeta",
+		"searchName": "vegeta",
+		"publisher": "Shueisha",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1206.jpg"
+	},
+	{
+		"id": "687",
+		"name": "Venom",
+		"searchName": "venom",
+		"publisher": "Anti-Venom",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/22.jpg"
+	},
+	{
+		"id": "688",
+		"name": "Venom II",
+		"searchName": "venomii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1124.jpg"
+	},
+	{
+		"id": "689",
+		"name": "Venom III",
+		"searchName": "venomiii",
+		"publisher": "Scorpion",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1042.jpg"
+	},
+	{
+		"id": "690",
+		"name": "Venompool",
+		"searchName": "venompool",
+		"publisher": "Deadpool",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10618.jpg"
+	},
+	{
+		"id": "691",
+		"name": "Vertigo II",
+		"searchName": "vertigoii",
+		"publisher": "Blaquesmith",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/149.jpg"
+	},
+	{
+		"id": "692",
+		"name": "Vibe",
+		"searchName": "vibe",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10509.jpg"
+	},
+	{
+		"id": "693",
+		"name": "Vindicator",
+		"searchName": "vindicator",
+		"publisher": "Vindicator II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/150.jpg"
+	},
+	{
+		"id": "694",
+		"name": "Vindicator",
+		"searchName": "vindicator",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/530.jpg"
+	},
+	{
+		"id": "695",
+		"name": "Violator",
+		"searchName": "violator",
+		"publisher": "Image Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1064.jpg"
+	},
+	{
+		"id": "696",
+		"name": "Violet Parr",
+		"searchName": "violetparr",
+		"publisher": "Dark Horse Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/825.jpg"
+	},
+	{
+		"id": "697",
+		"name": "Vision",
+		"searchName": "vision",
+		"publisher": "Anti-Vision",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/532.jpg"
+	},
+	{
+		"id": "698",
+		"name": "Vision II",
+		"searchName": "visionii",
+		"publisher": "Anti-Vision",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/151.jpg"
+	},
+	{
+		"id": "699",
+		"name": "Vixen",
+		"searchName": "vixen",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10109.jpg"
+	},
+	{
+		"id": "700",
+		"name": "Vulcan",
+		"searchName": "vulcan",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/854.jpg"
+	},
+	{
+		"id": "701",
+		"name": "Vulture",
+		"searchName": "vulture",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1031.jpg"
+	},
+	{
+		"id": "702",
+		"name": "Walrus",
+		"searchName": "walrus",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10058.jpg"
+	},
+	{
+		"id": "703",
+		"name": "War Machine",
+		"searchName": "warmachine",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/536.jpg"
+	},
+	{
+		"id": "704",
+		"name": "Warbird",
+		"searchName": "warbird",
+		"publisher": "Binary",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/153.jpg"
+	},
+	{
+		"id": "705",
+		"name": "Warlock",
+		"searchName": "warlock",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/154.jpg"
+	},
+	{
+		"id": "706",
+		"name": "Warp",
+		"searchName": "warp",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1353.jpg"
+	},
+	{
+		"id": "707",
+		"name": "Warpath",
+		"searchName": "warpath",
+		"publisher": "Thunderbird II",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/541.jpg"
+	},
+	{
+		"id": "708",
+		"name": "Wasp",
+		"searchName": "wasp",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/155.jpg"
+	},
+	{
+		"id": "709",
+		"name": "Watcher",
+		"searchName": "watcher",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/516.jpg"
+	},
+	{
+		"id": "710",
+		"name": "Weapon XI",
+		"searchName": "weaponxi",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1318.jpg"
+	},
+	{
+		"id": "711",
+		"name": "White Canary",
+		"searchName": "whitecanary",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10542.jpg"
+	},
+	{
+		"id": "712",
+		"name": "White Queen",
+		"searchName": "whitequeen",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/157.jpg"
+	},
+	{
+		"id": "713",
+		"name": "Wildfire",
+		"searchName": "wildfire",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1186.jpg"
+	},
+	{
+		"id": "714",
+		"name": "Winter Soldier",
+		"searchName": "wintersoldier",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10027.jpg"
+	},
+	{
+		"id": "715",
+		"name": "Wiz Kid",
+		"searchName": "wizkid",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/159.jpg"
+	},
+	{
+		"id": "716",
+		"name": "Wolfsbane",
+		"searchName": "wolfsbane",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/160.jpg"
+	},
+	{
+		"id": "717",
+		"name": "Wolverine",
+		"searchName": "wolverine",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/161.jpg"
+	},
+	{
+		"id": "718",
+		"name": "Wonder Girl",
+		"searchName": "wondergirl",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1497.jpg"
+	},
+	{
+		"id": "719",
+		"name": "Wonder Man",
+		"searchName": "wonderman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/162.jpg"
+	},
+	{
+		"id": "720",
+		"name": "Wonder Woman",
+		"searchName": "wonderwoman",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/807.jpg"
+	},
+	{
+		"id": "721",
+		"name": "Wondra",
+		"searchName": "wondra",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1290.jpg"
+	},
+	{
+		"id": "722",
+		"name": "Wyatt Wingfoot",
+		"searchName": "wyattwingfoot",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/164.jpg"
+	},
+	{
+		"id": "723",
+		"name": "X-23",
+		"searchName": "x23",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/565.jpg"
+	},
+	{
+		"id": "724",
+		"name": "X-Man",
+		"searchName": "xman",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1150.jpg"
+	},
+	{
+		"id": "725",
+		"name": "Yellow Claw",
+		"searchName": "yellowclaw",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/23.jpg"
+	},
+	{
+		"id": "726",
+		"name": "Yellowjacket",
+		"searchName": "yellowjacket",
+		"publisher": "Ant-Man",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/70.jpg"
+	},
+	{
+		"id": "727",
+		"name": "Yellowjacket II",
+		"searchName": "yellowjacketii",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/178.jpg"
+	},
+	{
+		"id": "728",
+		"name": "Ymir",
+		"searchName": "ymir",
+		"publisher": "Marvel Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/179.jpg"
+	},
+	{
+		"id": "729",
+		"name": "Yoda",
+		"searchName": "yoda",
+		"publisher": "George Lucas",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/10454.jpg"
+	},
+	{
+		"id": "730",
+		"name": "Zatanna",
+		"searchName": "zatanna",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/809.jpg"
+	},
+	{
+		"id": "731",
+		"name": "Zoom",
+		"searchName": "zoom",
+		"publisher": "DC Comics",
+		"image": "https://www.superherodb.com/pictures2/portraits/10/100/1384.jpg"
+	}
+]
