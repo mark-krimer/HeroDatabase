@@ -83,10 +83,10 @@ async function searchForSuperheroes() {
 	console.log(jsonData);
 	if (jsonData.results.length > 1) {
 		console.log("SEND TO OPTIONS PAGE");
-		document.location.href = "HeroDatabase/HTMLs/options.html";
+		document.location.href = "HTMLs/options.html";
 	} else {
 		console.log("SEND TO HERO PAGE");
-		document.location.href = "HeroDatabase/HTMLs/hero.html";
+		document.location.href = "HTMLs/hero.html";
 	}
 }
 
@@ -140,5 +140,5 @@ async function clicked(element) {
 	const jsonData = await response.json();
 	const jsonString = await JSON.stringify(jsonData);
 	localStorage.setItem("jsonInfo", jsonString);
-	document.location.href = "HeroDatabase/HTMLs/hero.html";
+	document.location.href = "HTMLs/hero.html";
 }
