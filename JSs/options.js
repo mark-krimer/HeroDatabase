@@ -140,5 +140,5 @@ async function clicked(element) {
 	const jsonData = await response.json();
 	const jsonString = await JSON.stringify(jsonData);
 	localStorage.setItem("jsonInfo", jsonString);
-	document.location.href = "HTMLs/hero.html";
+	document.location.href = "hero.html";
 }
