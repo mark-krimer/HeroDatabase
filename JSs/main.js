@@ -11,7 +11,7 @@ function normalize(str) {
 }
 
 // LOAD DATA
-fetch("../heroesNoDupes.json")
+fetch("heroesNoDupes.json")
 	.then((res) => res.json())
 	.then((data) => {
 		heroes = data;
