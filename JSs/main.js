@@ -1,4 +1,4 @@
-t// VARIABLES
+// VARIABLES
 let heroes = [];
 
 const input = document.getElementById("superheroInput");
