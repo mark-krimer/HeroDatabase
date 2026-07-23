@@ -83,10 +83,10 @@ async function searchForSuperheroes() {
 	console.log(jsonData);
 	if (jsonData.results.length > 1) {
 		console.log("SEND TO OPTIONS PAGE");
-		document.location.href = "HTMLs/options.html";
+		document.location.href = "options.html";
 	} else {
 		console.log("SEND TO HERO PAGE");
-		document.location.href = "HTMLs/hero.html";
+		document.location.href = "hero.html";
 	}
 }
 
